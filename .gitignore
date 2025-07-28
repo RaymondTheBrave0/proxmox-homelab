@@ -1,0 +1,26 @@
+# Sensitive data
+passwords.txt
+*.key
+*.pem
+*.crt
+.env
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
