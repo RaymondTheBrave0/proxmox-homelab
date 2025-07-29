@@ -1,0 +1,2309 @@
+Metadata Addition Log - 2025-07-29 16:29:27.473114
+==================================================
+
+Found 383 DOCX files to process
+
+[1/383] Processing: Resurrection-a-Reason-to-Believe.docx
+  Title: Resurrection Reason Believe
+  Category: Theology
+  Keywords: Resurrection Reason Believe
+  ✓ Metadata added successfully
+
+[2/383] Processing: Jesus-Christ-Will-Govern-from-Jerusalem.docx
+  Title: Jesus Christ Govern Jerusalem
+  Category: Theology
+  Keywords: Jesus Christ Govern Jerusalem
+  ✓ Metadata added successfully
+
+[3/383] Processing: Will-you-take-Red-Pill-Part-2.docx
+  Title: take Red Pill Part 2
+  Category: General Theology
+  Keywords: take Red Pill Part 2
+  ✓ Metadata added successfully
+
+[4/383] Processing: How-Communion-Should-be-Taken-in-Church.docx
+  Title: Communion Taken Church
+  Category: Church Practices
+  Keywords: Communion Taken Church
+  ✓ Metadata added successfully
+
+[5/383] Processing: No-One-will-Know-When-Jesus-will-Return.docx
+  Title: Know Jesus Return
+  Category: Theology
+  Keywords: Know Jesus Return
+  ✓ Metadata added successfully
+
+[6/383] Processing: Biblical-Chronology-Introduction.docx
+  Title: Biblical Chronology Introduction
+  Category: General Theology
+  Keywords: Biblical Chronology Introduction
+  ✓ Metadata added successfully
+
+[7/383] Processing: Myths-and-Excuses-about-Gods-Healing-Power.docx
+  Title: Myths Excuses Gods Healing Power
+  Category: Theology
+  Keywords: Myths Excuses Gods Healing Power
+  ✓ Metadata added successfully
+
+[8/383] Processing: The-One-True-God-is-the-Father.docx
+  Title: True God Father
+  Category: Theology
+  Keywords: True God Father
+  ✓ Metadata added successfully
+
+[9/383] Processing: The-Lost-Temple-Mount.docx
+  Title: Lost Temple Mount
+  Category: General Theology
+  Keywords: Lost Temple Mount
+  ✓ Metadata added successfully
+
+[10/383] Processing: Should-Women-be-Teachers-of-Men.docx
+  Title: Women Teachers Men
+  Category: Family and Relationships
+  Keywords: Women Teachers Men
+  ✓ Metadata added successfully
+
+[11/383] Processing: Godly-Modesty-in-Clothing.docx
+  Title: Godly Modesty Clothing
+  Category: Theology
+  Keywords: Godly Modesty Clothing
+  ✓ Metadata added successfully
+
+[12/383] Processing: Blow-the-Shofar-Says-The-Lord.docx
+  Title: Blow Shofar Says Lord
+  Category: General Theology
+  Keywords: Blow Shofar Says Lord
+  ✓ Metadata added successfully
+
+[13/383] Processing: How-did-Sickness-Enter-this-World.docx
+  Title: Sickness Enter World
+  Category: Health and Healing
+  Keywords: Sickness Enter World
+  ✓ Metadata added successfully
+
+[14/383] Processing: Honesty-In-Marriage.docx
+  Title: Honesty Marriage
+  Category: Family and Relationships
+  Keywords: Honesty Marriage
+  ✓ Metadata added successfully
+
+[15/383] Processing: Sealed-until-the-Time-of-the-End-Jesus-Return.docx
+  Title: Sealed Time End Jesus Return
+  Category: Theology
+  Keywords: Sealed Time End Jesus Return
+  ✓ Metadata added successfully
+
+[16/383] Processing: Reasons-for-Christians-to-Speak-in-Tongues.docx
+  Title: Reasons Christians Speak Tongues
+  Category: Theology
+  Keywords: Reasons Christians Speak Tongues
+  ✓ Metadata added successfully
+
+[17/383] Processing: Who-were-the-Samaritans.docx
+  Title: Samaritans
+  Category: General Theology
+  Keywords: Samaritans
+  ✓ Metadata added successfully
+
+[18/383] Processing: How-Greek-thought-Corrupted-Christian-Theology.docx
+  Title: Greek thought Corrupted Christian Theology
+  Category: Theology
+  Keywords: Greek thought Corrupted Christian Theology
+  ✓ Metadata added successfully
+
+[19/383] Processing: Demystify-the-Meaning-of-Sheol-and-Hades-in-the-Bible.docx
+  Title: Demystify Meaning Sheol Hades Bible
+  Category: Biblical Studies
+  Keywords: Demystify Meaning Sheol Hades Bible
+  ✓ Metadata added successfully
+
+[20/383] Processing: When-did-God-First-Allow-Man-to-Eat-Meat.docx
+  Title: God First Allow Man Eat Meat
+  Category: Theology
+  Keywords: God First Allow Man Eat Meat
+  ✓ Metadata added successfully
+
+[21/383] Processing: Enoch-and-Elijah-Where-Are-They-Now.docx
+  Title: Enoch Elijah Now
+  Category: General Theology
+  Keywords: Enoch Elijah Now
+  ✓ Metadata added successfully
+
+[22/383] Processing: Ancient-Hebrew-Thought.docx
+  Title: Ancient Hebrew Thought
+  Category: Biblical Languages
+  Keywords: Ancient Hebrew Thought
+  ✓ Metadata added successfully
+
+[23/383] Processing: COVID-in-Context.docx
+  Title: COVID Context
+  Category: Health and Healing
+  Keywords: COVID Context
+  ✓ Metadata added successfully
+
+[24/383] Processing: Did-Enoch-go-to-Heaven.docx
+  Title: Enoch Heaven
+  Category: General Theology
+  Keywords: Enoch Heaven
+  ✓ Metadata added successfully
+
+[25/383] Processing: What-Is-Preaching-the-Gospel.docx
+  Title: Preaching Gospel
+  Category: General Theology
+  Keywords: Preaching Gospel
+  ✓ Metadata added successfully
+
+[26/383] Processing: Moses-the-Millennial-Week.docx
+  Title: Moses Millennial Week
+  Category: General Theology
+  Keywords: Moses Millennial Week
+  ✓ Metadata added successfully
+
+[27/383] Processing: Which-Commandments-do-We-Keep.docx
+  Title: Commandments Keep
+  Category: General Theology
+  Keywords: Commandments Keep
+  ✓ Metadata added successfully
+
+[28/383] Processing: The-Boogeyman-Called-False-Tongues.docx
+  Title: Boogeyman Called False Tongues
+  Category: Apologetics
+  Keywords: Boogeyman Called False Tongues
+  ✓ Metadata added successfully
+
+[29/383] Processing: Holy-Spirit-is-NOT-a-Person-but-the-Breath-of-God.docx
+  Title: Holy Spirit Person Breath God
+  Category: Theology
+  Keywords: Holy Spirit Person Breath God
+  ✓ Metadata added successfully
+
+[30/383] Processing: Gods-Will-Calvinism-Part-7.docx
+  Title: Gods Calvinism Part 7
+  Category: Calvinism
+  Keywords: Gods Calvinism Part 7
+  ✓ Metadata added successfully
+
+[31/383] Processing: Explanation-of-The-Names-Of-God.docx
+  Title: Explanation Names God
+  Category: Theology
+  Keywords: Explanation Names God
+  ✓ Metadata added successfully
+
+[32/383] Processing: Why-people-think-the-Dead-are-Alive-Near-Death-Experiences.docx
+  Title: people think Dead Alive Near Death Experiences
+  Category: Death and Resurrection
+  Keywords: people think Dead Alive Near Death Experiences
+  ✓ Metadata added successfully
+
+[33/383] Processing: Kingdom-of-God-Now-or-in-the-Future.docx
+  Title: Kingdom God Now Future
+  Category: Theology
+  Keywords: Kingdom God Now Future
+  ✓ Metadata added successfully
+
+[34/383] Processing: After-Resurrection-Comes-the-Judgment.docx
+  Title: Resurrection Comes Judgment
+  Category: Death and Resurrection
+  Keywords: Resurrection Comes Judgment
+  ✓ Metadata added successfully
+
+[35/383] Processing: The-Debate-About-the-Timing-of-the-Rapture.docx
+  Title: Debate Timing Rapture
+  Category: Eschatology
+  Keywords: Debate Timing Rapture
+  ✓ Metadata added successfully
+
+[36/383] Processing: The-Millennial-Week-Sabbath-Rest-Equals-Chiliasm.docx
+  Title: Millennial Week Sabbath Rest Equals Chiliasm
+  Category: General Theology
+  Keywords: Millennial Week Sabbath Rest Equals Chiliasm
+  ✓ Metadata added successfully
+
+[37/383] Processing: Peters-Second-Sermon-Acts-319-21.docx
+  Title: Peters Second Sermon Acts 319 21
+  Category: General Theology
+  Keywords: Peters Second Sermon Acts 319 21
+  ✓ Metadata added successfully
+
+[38/383] Processing: Philosophy-Methodology-for-Understanding-Scripture.docx
+  Title: Philosophy Methodology Understanding Scripture
+  Category: Biblical Studies
+  Keywords: Philosophy Methodology Understanding Scripture
+  ✓ Metadata added successfully
+
+[39/383] Processing: Sola-Scriptura.docx
+  Title: Sola Scriptura
+  Category: General Theology
+  Keywords: Sola Scriptura
+  ✓ Metadata added successfully
+
+[40/383] Processing: Counting-with-Greek-Numbers.docx
+  Title: Counting Greek Numbers
+  Category: Biblical Languages
+  Keywords: Counting Greek Numbers
+  ✓ Metadata added successfully
+
+[41/383] Processing: How-to-Study-and-Understand-the-Bible-Scriptures.docx
+  Title: Study Understand Bible Scriptures
+  Category: Biblical Studies
+  Keywords: Study Understand Bible Scriptures
+  ✓ Metadata added successfully
+
+[42/383] Processing: Repentance-and-Baptism-Not-Symbolic.docx
+  Title: Repentance Baptism Symbolic
+  Category: Church Practices
+  Keywords: Repentance Baptism Symbolic
+  ✓ Metadata added successfully
+
+[43/383] Processing: Preterism-Introduction.docx
+  Title: Preterism Introduction
+  Category: General Theology
+  Keywords: Preterism Introduction
+  ✓ Metadata added successfully
+
+[44/383] Processing: 3-Limited-Atonement-Calvinism.docx
+  Title: Limited Atonement Calvinism
+  Category: Calvinism
+  Keywords: Limited Atonement Calvinism
+  ✓ Metadata added successfully
+
+[45/383] Processing: What-is-Biblical-Immortality.docx
+  Title: Biblical Immortality
+  Category: Death and Resurrection
+  Keywords: Biblical Immortality
+  ✓ Metadata added successfully
+
+[46/383] Processing: Early-Christians-had-a-Great-Hope.docx
+  Title: Early Christians Great Hope
+  Category: Theology
+  Keywords: Early Christians Great Hope
+  ✓ Metadata added successfully
+
+[47/383] Processing: Three-Kinds-of-Men-Gnosticism-Part-6.docx
+  Title: Kinds Men Gnosticism Part 6
+  Category: Apologetics
+  Keywords: Kinds Men Gnosticism Part 6
+  ✓ Metadata added successfully
+
+[48/383] Processing: Is-Our-Destination-Heaven.docx
+  Title: Destination Heaven
+  Category: General Theology
+  Keywords: Destination Heaven
+  ✓ Metadata added successfully
+
+[49/383] Processing: Who-Is-a-Christian.docx
+  Title: Christian
+  Category: Theology
+  Keywords: Christian
+  ✓ Metadata added successfully
+
+[50/383] Processing: Melchizedek-is-the-Son-of-God.docx
+  Title: Melchizedek Son God
+  Category: Theology
+  Keywords: Melchizedek Son God
+  ✓ Metadata added successfully
+
+[51/383] Processing: FEAR-about-your-Childs-Illness.docx
+  Title: FEAR Childs Illness
+  Category: General Theology
+  Keywords: FEAR Childs Illness
+  ✓ Metadata added successfully
+
+[52/383] Processing: How-to-Study-the-Bible-in-3-Steps.docx
+  Title: Study Bible 3 Steps
+  Category: Biblical Studies
+  Keywords: Study Bible 3 Steps
+  ✓ Metadata added successfully
+
+[53/383] Processing: The-Term-Man-in-the-NT.docx
+  Title: Term Man NT
+  Category: General Theology
+  Keywords: Term Man NT
+  ✓ Metadata added successfully
+
+[54/383] Processing: We-Dont-Pray-to-Jesus.docx
+  Title: Dont Pray Jesus
+  Category: Theology
+  Keywords: Dont Pray Jesus
+  ✓ Metadata added successfully
+
+[55/383] Processing: The-First-Jewish-Holocaust.docx
+  Title: First Jewish Holocaust
+  Category: General Theology
+  Keywords: First Jewish Holocaust
+  ✓ Metadata added successfully
+
+[56/383] Processing: Death-is-like-sleep.docx
+  Title: Death like sleep
+  Category: Death and Resurrection
+  Keywords: Death like sleep
+  ✓ Metadata added successfully
+
+[57/383] Processing: Why-does-Matthew-use-the-Kingdom-of-Heaven.docx
+  Title: Matthew Kingdom Heaven
+  Category: General Theology
+  Keywords: Matthew Kingdom Heaven
+  ✓ Metadata added successfully
+
+[58/383] Processing: Hebrew-Names-of-God-in-The-Bible.docx
+  Title: Hebrew Names God Bible
+  Category: Theology
+  Keywords: Hebrew Names God Bible
+  ✓ Metadata added successfully
+
+[59/383] Processing: Once-Saved-Always-Saved.docx
+  Title: Saved Saved
+  Category: Salvation
+  Keywords: Saved Saved
+  ✓ Metadata added successfully
+
+[60/383] Processing: Sunday-the-Early-Church.docx
+  Title: Sunday Early Church
+  Category: Church Practices
+  Keywords: Sunday Early Church
+  ✓ Metadata added successfully
+
+[61/383] Processing: Synagogues-in-the-Bible.docx
+  Title: Synagogues Bible
+  Category: Biblical Studies
+  Keywords: Synagogues Bible
+  ✓ Metadata added successfully
+
+[62/383] Processing: In-the-BeginningThe-Devils-Lie.docx
+  Title: BeginningThe Devils Lie
+  Category: General Theology
+  Keywords: BeginningThe Devils Lie
+  ✓ Metadata added successfully
+
+[63/383] Processing: Healing-and-the-Atonement-using-Key-Passages-of-Scripture.docx
+  Title: Healing Atonement using Key Passages Scripture
+  Category: Health and Healing
+  Keywords: Healing Atonement using Key Passages Scripture
+  ✓ Metadata added successfully
+
+[64/383] Processing: Science-Increasingly-Makes-the-Case-for-God.docx
+  Title: Science Increasingly Makes Case God
+  Category: Theology
+  Keywords: Science Increasingly Makes Case God
+  ✓ Metadata added successfully
+
+[65/383] Processing: Sickness-versus-Disease-in-the-Bible.docx
+  Title: Sickness Disease Bible
+  Category: Health and Healing
+  Keywords: Sickness Disease Bible
+  ✓ Metadata added successfully
+
+[66/383] Processing: Calvinism-Part-1.docx
+  Title: Calvinism Part 1
+  Category: Calvinism
+  Keywords: Calvinism Part 1
+  ✓ Metadata added successfully
+
+[67/383] Processing: The-Holy-Spirit-Is-Not-a-Person.docx
+  Title: Holy Spirit Person
+  Category: Theology
+  Keywords: Holy Spirit Person
+  ✓ Metadata added successfully
+
+[68/383] Processing: 2-Unconditional-Election-Calvinism.docx
+  Title: Unconditional Election Calvinism
+  Category: Calvinism
+  Keywords: Unconditional Election Calvinism
+  ✓ Metadata added successfully
+
+[69/383] Processing: Why-Are-Passover-And-Easter-Celebrated-At-Different-Times.docx
+  Title: Passover Easter Celebrated Times
+  Category: General Theology
+  Keywords: Passover Easter Celebrated Times
+  ✓ Metadata added successfully
+
+[70/383] Processing: What-is-a-Graven-Image.docx
+  Title: Graven Image
+  Category: General Theology
+  Keywords: Graven Image
+  ✓ Metadata added successfully
+
+[71/383] Processing: In-Christ-Neither-Male-nor-Female.docx
+  Title: Christ Male Female
+  Category: Theology
+  Keywords: Christ Male Female
+  ✓ Metadata added successfully
+
+[72/383] Processing: Why-Christians-dont-want-to-speak-in-Tongues-Objection-1.docx
+  Title: Christians dont want speak Tongues Objection 1
+  Category: Theology
+  Keywords: Christians dont want speak Tongues Objection 1
+  ✓ Metadata added successfully
+
+[73/383] Processing: Is-Baptism-Part-of-Salvation.docx
+  Title: Baptism Part Salvation
+  Category: Church Practices
+  Keywords: Baptism Part Salvation
+  ✓ Metadata added successfully
+
+[74/383] Processing: Smith-Wigglesworth-Overview-Of-Ministry.docx
+  Title: Smith Wigglesworth Overview Ministry
+  Category: General Theology
+  Keywords: Smith Wigglesworth Overview Ministry
+  ✓ Metadata added successfully
+
+[75/383] Processing: Christianitys-Platonic-Heaven.docx
+  Title: Christianitys Platonic Heaven
+  Category: Theology
+  Keywords: Christianitys Platonic Heaven
+  ✓ Metadata added successfully
+
+[76/383] Processing: History-of-the-Calendar.docx
+  Title: History Calendar
+  Category: General Theology
+  Keywords: History Calendar
+  ✓ Metadata added successfully
+
+[77/383] Processing: History-of-the-Pre-and-Post-Tribulation-Theology.docx
+  Title: History Pre Post Tribulation Theology
+  Category: Eschatology
+  Keywords: History Pre Post Tribulation Theology
+  ✓ Metadata added successfully
+
+[78/383] Processing: What-did-Irenaeus-Believe.docx
+  Title: Irenaeus Believe
+  Category: General Theology
+  Keywords: Irenaeus Believe
+  ✓ Metadata added successfully
+
+[79/383] Processing: God-is-Clear-on-Contraception-None.docx
+  Title: God Clear Contraception
+  Category: Theology
+  Keywords: God Clear Contraception
+  ✓ Metadata added successfully
+
+[80/383] Processing: What-Happens-When-we-Die.docx
+  Title: Happens Die
+  Category: General Theology
+  Keywords: Happens Die
+  ✓ Metadata added successfully
+
+[81/383] Processing: Who-and-What-causes-Sickness.docx
+  Title: causes Sickness
+  Category: Health and Healing
+  Keywords: causes Sickness
+  ✓ Metadata added successfully
+
+[82/383] Processing: Information-and-Reasons-for-NOT-having-the-COVID-19-Vaccine.docx
+  Title: Reasons COVID 19 Vaccine
+  Category: Theology
+  Keywords: Reasons COVID 19 Vaccine
+  ✓ Metadata added successfully
+
+[83/383] Processing: 0-An-Introduction-to-Calvinism.docx
+  Title: Introduction Calvinism
+  Category: Calvinism
+  Keywords: Introduction Calvinism
+  ✓ Metadata added successfully
+
+[84/383] Processing: Womens-Role-in-1-Timothy-28-15.docx
+  Title: Womens Role 1 Timothy 28 15
+  Category: Family and Relationships
+  Keywords: Womens Role 1 Timothy 28 15
+  ✓ Metadata added successfully
+
+[85/383] Processing: 1-The-Evolution-of-God-Series.docx
+  Title: Evolution God Series
+  Category: Theology
+  Keywords: Evolution God Series
+  ✓ Metadata added successfully
+
+[86/383] Processing: Bread-And-Cup-Of-Communion.docx
+  Title: Bread Cup Communion
+  Category: Church Practices
+  Keywords: Bread Cup Communion
+  ✓ Metadata added successfully
+
+[87/383] Processing: As-In-the-Days-of-Noah-Lot.docx
+  Title: Days Noah
+  Category: General Theology
+  Keywords: Days Noah
+  ✓ Metadata added successfully
+
+[88/383] Processing: Glossary-of-End-Time-Terms.docx
+  Title: Glossary End Time Terms
+  Category: Eschatology
+  Keywords: Glossary End Time Terms
+  ✓ Metadata added successfully
+
+[89/383] Processing: God-His-Apprentice-in-Creation-according-to-Moses-David-Solomon-the-Apostles-the-Earliest-Christians.docx
+  Title: God Apprentice Creation according Moses David Solomon Apostles Earliest Christians
+  Category: Theology
+  Keywords: God Apprentice Creation according Moses David Solomon Apostles Earliest Christians
+  ✓ Metadata added successfully
+
+[90/383] Processing: Misconception-2-Tongues-arent-for-everyone.docx
+  Title: Misconception 2 Tongues arent
+  Category: General Theology
+  Keywords: Misconception 2 Tongues arent
+  ✓ Metadata added successfully
+
+[91/383] Processing: Only-God-is-Immortal.docx
+  Title: God Immortal
+  Category: Theology
+  Keywords: God Immortal
+  ✓ Metadata added successfully
+
+[92/383] Processing: Revelation-Flowchart-of-Events.docx
+  Title: Revelation Flowchart Events
+  Category: Eschatology
+  Keywords: Revelation Flowchart Events
+  ✓ Metadata added successfully
+
+[93/383] Processing: Speech-The-Overflow-of-the-Heart.docx
+  Title: Speech Overflow Heart
+  Category: General Theology
+  Keywords: Speech Overflow Heart
+  ✓ Metadata added successfully
+
+[94/383] Processing: The-Biblical-Basis-for-the-Post-Tribulation-Rapture.docx
+  Title: Biblical Basis Post Tribulation Rapture
+  Category: Eschatology
+  Keywords: Biblical Basis Post Tribulation Rapture
+  ✓ Metadata added successfully
+
+[95/383] Processing: The-Background-to-how-the-Pretribulation-Teaching-Started.docx
+  Title: Background Pretribulation Teaching Started
+  Category: Eschatology
+  Keywords: Background Pretribulation Teaching Started
+  ✓ Metadata added successfully
+
+[96/383] Processing: Jesus-Returns-2036.docx
+  Title: Jesus Returns 2036
+  Category: Theology
+  Keywords: Jesus Returns 2036
+  ✓ Metadata added successfully
+
+[97/383] Processing: Paul-Caught-Up-to-the-Third-Heaven.docx
+  Title: Paul Caught Third Heaven
+  Category: General Theology
+  Keywords: Paul Caught Third Heaven
+  ✓ Metadata added successfully
+
+[98/383] Processing: When-is-the-Resurrection-from-the-Dead.docx
+  Title: Resurrection Dead
+  Category: Death and Resurrection
+  Keywords: Resurrection Dead
+  ✓ Metadata added successfully
+
+[99/383] Processing: Israels-Role-In-Gods-Redemptive-Plan.docx
+  Title: Israels Role Gods Redemptive Plan
+  Category: Theology
+  Keywords: Israels Role Gods Redemptive Plan
+  ✓ Metadata added successfully
+
+[100/383] Processing: Healing-in-the-Atonement.docx
+  Title: Healing Atonement
+  Category: Health and Healing
+  Keywords: Healing Atonement
+  ✓ Metadata added successfully
+
+[101/383] Processing: We-need-to-Resist-Entropy-as-Christians.docx
+  Title: need Resist Entropy Christians
+  Category: Theology
+  Keywords: need Resist Entropy Christians
+  ✓ Metadata added successfully
+
+[102/383] Processing: What-is-the-Anointing.docx
+  Title: Anointing
+  Category: General Theology
+  Keywords: Anointing
+  ✓ Metadata added successfully
+
+[103/383] Processing: We-all-have-Theological-Filters.docx
+  Title: Theological Filters
+  Category: General Theology
+  Keywords: Theological Filters
+  ✓ Metadata added successfully
+
+[104/383] Processing: How-can-Christians-say-Jesus-is-the-only-way-to-God.docx
+  Title: Christians say Jesus way God
+  Category: Theology
+  Keywords: Christians say Jesus way God
+  ✓ Metadata added successfully
+
+[105/383] Processing: The-Olivet-Discourse-Matthew-24-and-Mark-13.docx
+  Title: Olivet Discourse Matthew 24 Mark 13
+  Category: General Theology
+  Keywords: Olivet Discourse Matthew 24 Mark 13
+  ✓ Metadata added successfully
+
+[106/383] Processing: Informed-Consent-a-Legal-Right-to-Say-NO-to-the-Vaccine.docx
+  Title: Informed Consent Legal Right Say Vaccine
+  Category: Health and Healing
+  Keywords: Informed Consent Legal Right Say Vaccine
+  ✓ Metadata added successfully
+
+[107/383] Processing: Introduction-to-Ancient-Hebrew.docx
+  Title: Introduction Ancient Hebrew
+  Category: Biblical Languages
+  Keywords: Introduction Ancient Hebrew
+  ✓ Metadata added successfully
+
+[108/383] Processing: Lazarus-and-the-Rich-man-commentary-Luke-1619-Parable.docx
+  Title: Lazarus Rich man commentary Luke 1619 Parable
+  Category: General Theology
+  Keywords: Lazarus Rich man commentary Luke 1619 Parable
+  ✓ Metadata added successfully
+
+[109/383] Processing: Paul-the-Mystery.docx
+  Title: Paul Mystery
+  Category: General Theology
+  Keywords: Paul Mystery
+  ✓ Metadata added successfully
+
+[110/383] Processing: The-Spirit-Breath-of-God.docx
+  Title: Spirit Breath God
+  Category: Theology
+  Keywords: Spirit Breath God
+  ✓ Metadata added successfully
+
+[111/383] Processing: Is-SOZO-Prayer-Biblical.docx
+  Title: SOZO Prayer Biblical
+  Category: General Theology
+  Keywords: SOZO Prayer Biblical
+  ✓ Metadata added successfully
+
+[112/383] Processing: Rules-on-How-Understand-the-Subject-of-End-Times.docx
+  Title: Rules Understand Subject End Times
+  Category: Eschatology
+  Keywords: Rules Understand Subject End Times
+  ✓ Metadata added successfully
+
+[113/383] Processing: Did-the-Dying-Thief-Accompany-Jesus-to-Paradise.docx
+  Title: Dying Thief Accompany Jesus Paradise
+  Category: Theology
+  Keywords: Dying Thief Accompany Jesus Paradise
+  ✓ Metadata added successfully
+
+[114/383] Processing: Christmas-or-Hanukkah.docx
+  Title: Christmas Hanukkah
+  Category: Theology
+  Keywords: Christmas Hanukkah
+  ✓ Metadata added successfully
+
+[115/383] Processing: Events-of-70-AD-do-not-Fulfill-End-Times-Prophecies.docx
+  Title: Events 70 AD Fulfill End Times Prophecies
+  Category: Eschatology
+  Keywords: Events 70 AD Fulfill End Times Prophecies
+  ✓ Metadata added successfully
+
+[116/383] Processing: How-Did-the-Early-Church-View-the-Millennial-1000-Kingdom.docx
+  Title: Early Church View Millennial 1000 Kingdom
+  Category: Church Practices
+  Keywords: Early Church View Millennial 1000 Kingdom
+  ✓ Metadata added successfully
+
+[117/383] Processing: The-Issues-with-COVID-Passports.docx
+  Title: Issues COVID Passports
+  Category: Health and Healing
+  Keywords: Issues COVID Passports
+  ✓ Metadata added successfully
+
+[118/383] Processing: Notes-on-the-Septuagint.docx
+  Title: Notes Septuagint
+  Category: Biblical Languages
+  Keywords: Notes Septuagint
+  ✓ Metadata added successfully
+
+[119/383] Processing: Objection-2-Tongues-are-of-the-devil.docx
+  Title: Objection 2 Tongues devil
+  Category: General Theology
+  Keywords: Objection 2 Tongues devil
+  ✓ Metadata added successfully
+
+[120/383] Processing: Can-we-find-the-Rapture-in-Revelation.docx
+  Title: find Rapture Revelation
+  Category: Eschatology
+  Keywords: find Rapture Revelation
+  ✓ Metadata added successfully
+
+[121/383] Processing: The-New-Jerusalem-is-Jerusalem-Restored.docx
+  Title: New Jerusalem Jerusalem Restored
+  Category: General Theology
+  Keywords: New Jerusalem Jerusalem Restored
+  ✓ Metadata added successfully
+
+[122/383] Processing: The-Abrahamic-Covenant-In-the-Both-Testaments.docx
+  Title: Abrahamic Covenant Testaments
+  Category: General Theology
+  Keywords: Abrahamic Covenant Testaments
+  ✓ Metadata added successfully
+
+[123/383] Processing: The-Noah-Flood-Was-Global.docx
+  Title: Noah Flood Global
+  Category: General Theology
+  Keywords: Noah Flood Global
+  ✓ Metadata added successfully
+
+[124/383] Processing: Christian-Intimacy-Sexuality.docx
+  Title: Christian Intimacy Sexuality
+  Category: Theology
+  Keywords: Christian Intimacy Sexuality
+  ✓ Metadata added successfully
+
+[125/383] Processing: When-Was-the-Book-of-Revelation-Written.docx
+  Title: Book Revelation Written
+  Category: Eschatology
+  Keywords: Book Revelation Written
+  ✓ Metadata added successfully
+
+[126/383] Processing: How-Do-I-know-the-Bible-is-REALLY-from-God.docx
+  Title: I know Bible God
+  Category: Theology
+  Keywords: I know Bible God
+  ✓ Metadata added successfully
+
+[127/383] Processing: Saint-or-Sinner-What-is-Our-Christian-Identity.docx
+  Title: Saint Sinner Christian Identity
+  Category: Theology
+  Keywords: Saint Sinner Christian Identity
+  ✓ Metadata added successfully
+
+[128/383] Processing: Principles-for-Christians-Studying-the-Word-Of-God.docx
+  Title: Principles Christians Studying Word God
+  Category: Theology
+  Keywords: Principles Christians Studying Word God
+  ✓ Metadata added successfully
+
+[129/383] Processing: Feast-Of-Tabernacles-Jesus-Returns.docx
+  Title: Feast Tabernacles Jesus Returns
+  Category: Theology
+  Keywords: Feast Tabernacles Jesus Returns
+  ✓ Metadata added successfully
+
+[130/383] Processing: The-Demiurge-Gnosticism-Part-5.docx
+  Title: Demiurge Gnosticism Part 5
+  Category: Apologetics
+  Keywords: Demiurge Gnosticism Part 5
+  ✓ Metadata added successfully
+
+[131/383] Processing: Matthew-24-and-the-Fig-Tree.docx
+  Title: Matthew 24 Fig Tree
+  Category: General Theology
+  Keywords: Matthew 24 Fig Tree
+  ✓ Metadata added successfully
+
+[132/383] Processing: Christian-Pacifism.docx
+  Title: Christian Pacifism
+  Category: Theology
+  Keywords: Christian Pacifism
+  ✓ Metadata added successfully
+
+[133/383] Processing: Will-you-Take-the-RED-PILL-Part-1.docx
+  Title: Take RED PILL Part 1
+  Category: General Theology
+  Keywords: Take RED PILL Part 1
+  ✓ Metadata added successfully
+
+[134/383] Processing: The-Feasts-of-Israel-and-their-Meaning.docx
+  Title: Feasts Israel Meaning
+  Category: General Theology
+  Keywords: Feasts Israel Meaning
+  ✓ Metadata added successfully
+
+[135/383] Processing: Defining-Elohim-in-the-Biblical-Context.docx
+  Title: Defining Elohim Biblical Context
+  Category: General Theology
+  Keywords: Defining Elohim Biblical Context
+  ✓ Metadata added successfully
+
+[136/383] Processing: The-Origin-of-the-Pretribulation-Rapture-with-Evidence.docx
+  Title: Origin Pretribulation Rapture Evidence
+  Category: Eschatology
+  Keywords: Origin Pretribulation Rapture Evidence
+  ✓ Metadata added successfully
+
+[137/383] Processing: Limited-Atonement-Calvinism-Part-4.docx
+  Title: Limited Atonement Calvinism Part 4
+  Category: Calvinism
+  Keywords: Limited Atonement Calvinism Part 4
+  ✓ Metadata added successfully
+
+[138/383] Processing: A-Look-at-the-Hebrew-Word-Olam.docx
+  Title: Look Hebrew Word Olam
+  Category: Biblical Languages
+  Keywords: Look Hebrew Word Olam
+  ✓ Metadata added successfully
+
+[139/383] Processing: How-Many-Second-Comings-Part-1.docx
+  Title: Second Comings Part 1
+  Category: Eschatology
+  Keywords: Second Comings Part 1
+  ✓ Metadata added successfully
+
+[140/383] Processing: Questions-for-Christians-who-support-Same-Sex-marriage.docx
+  Title: Questions Christians support Sex marriage
+  Category: Theology
+  Keywords: Questions Christians support Sex marriage
+  ✓ Metadata added successfully
+
+[141/383] Processing: What-is-at-Stake-Gnosticism-Part-8.docx
+  Title: Stake Gnosticism Part 8
+  Category: Apologetics
+  Keywords: Stake Gnosticism Part 8
+  ✓ Metadata added successfully
+
+[142/383] Processing: Was-the-Devils-Name-Really-Lucifer.docx
+  Title: Devils Name Lucifer
+  Category: General Theology
+  Keywords: Devils Name Lucifer
+  ✓ Metadata added successfully
+
+[143/383] Processing: Church-Fathers-On-the-End-Time-Events.docx
+  Title: Church Fathers End Time Events
+  Category: Eschatology
+  Keywords: Church Fathers End Time Events
+  ✓ Metadata added successfully
+
+[144/383] Processing: Hebrew-and-Greek-Worldview-Compared.docx
+  Title: Hebrew Greek Worldview Compared
+  Category: Biblical Languages
+  Keywords: Hebrew Greek Worldview Compared
+  ✓ Metadata added successfully
+
+[145/383] Processing: The-Permanent-Land-Inheritance-in-the-Prophets.docx
+  Title: Permanent Land Inheritance Prophets
+  Category: General Theology
+  Keywords: Permanent Land Inheritance Prophets
+  ✓ Metadata added successfully
+
+[146/383] Processing: Greek-Christians-Did-Not-Understand-the-Resurrection-1-Corinthians-15.docx
+  Title: Greek Christians Understand Resurrection 1 Corinthians 15
+  Category: Theology
+  Keywords: Greek Christians Understand Resurrection 1 Corinthians 15
+  ✓ Metadata added successfully
+
+[147/383] Processing: The-Power-of-the-Gospel-Calvinism-Series-Part-8.docx
+  Title: Power Gospel Calvinism Series Part 8
+  Category: Calvinism
+  Keywords: Power Gospel Calvinism Series Part 8
+  ✓ Metadata added successfully
+
+[148/383] Processing: 324-Prophecies-Fulfilled-by-Jesus.docx
+  Title: Prophecies Fulfilled Jesus
+  Category: Theology
+  Keywords: Prophecies Fulfilled Jesus
+  ✓ Metadata added successfully
+
+[149/383] Processing: 3-Fragments-of-the-Apostolic-Fathers-Evolution-of-God.docx
+  Title: Fragments Apostolic Fathers Evolution God
+  Category: Theology
+  Keywords: Fragments Apostolic Fathers Evolution God
+  ✓ Metadata added successfully
+
+[150/383] Processing: 4-Irresistible-Grace-Calvinism.docx
+  Title: Irresistible Grace Calvinism
+  Category: Calvinism
+  Keywords: Irresistible Grace Calvinism
+  ✓ Metadata added successfully
+
+[151/383] Processing: Are-Masks-Effective.docx
+  Title: Masks Effective
+  Category: General Theology
+  Keywords: Masks Effective
+  ✓ Metadata added successfully
+
+[152/383] Processing: Biblical-definition-of-idolatry.docx
+  Title: Biblical definition idolatry
+  Category: General Theology
+  Keywords: Biblical definition idolatry
+  ✓ Metadata added successfully
+
+[153/383] Processing: 5-Perseverance-of-the-Saints-Calvinism.docx
+  Title: Perseverance Saints Calvinism
+  Category: Calvinism
+  Keywords: Perseverance Saints Calvinism
+  ✓ Metadata added successfully
+
+[154/383] Processing: What-does-Sola-Scriptura-really-mean.docx
+  Title: Sola Scriptura mean
+  Category: General Theology
+  Keywords: Sola Scriptura mean
+  ✓ Metadata added successfully
+
+[155/383] Processing: The-Messenger-Angel-of-the-YHVH-Lord.docx
+  Title: Messenger Angel YHVH Lord
+  Category: General Theology
+  Keywords: Messenger Angel YHVH Lord
+  ✓ Metadata added successfully
+
+[156/383] Processing: Introduction-to-Gnosticism-Part-1.docx
+  Title: Introduction Gnosticism Part 1
+  Category: Apologetics
+  Keywords: Introduction Gnosticism Part 1
+  ✓ Metadata added successfully
+
+[157/383] Processing: 8-The-Coexistence-of-Sovereignty-and-Free-Will-Calvinism-Series.docx
+  Title: Coexistence Sovereignty Free Calvinism Series
+  Category: Calvinism
+  Keywords: Coexistence Sovereignty Free Calvinism Series
+  ✓ Metadata added successfully
+
+[158/383] Processing: Irresistible-Grace-Calvinism-Part-5.docx
+  Title: Irresistible Grace Calvinism Part 5
+  Category: Calvinism
+  Keywords: Irresistible Grace Calvinism Part 5
+  ✓ Metadata added successfully
+
+[159/383] Processing: Greek-Philosophys-Impact-on-our-Understanding-of-Death.docx
+  Title: Greek Philosophys Impact Understanding Death
+  Category: Biblical Languages
+  Keywords: Greek Philosophys Impact Understanding Death
+  ✓ Metadata added successfully
+
+[160/383] Processing: The-meaning-of-Heavenly-in-Ephesians-and-Hebrews.docx
+  Title: meaning Heavenly Ephesians Hebrews
+  Category: Biblical Languages
+  Keywords: meaning Heavenly Ephesians Hebrews
+  ✓ Metadata added successfully
+
+[161/383] Processing: Medical-Doctor-Reveals-Love-Story-of-Horror.docx
+  Title: Medical Doctor Reveals Love Story Horror
+  Category: General Theology
+  Keywords: Medical Doctor Reveals Love Story Horror
+  ✓ Metadata added successfully
+
+[162/383] Processing: The-Church-in-the-Old-Testament.docx
+  Title: Church Old Testament
+  Category: Church Practices
+  Keywords: Church Old Testament
+  ✓ Metadata added successfully
+
+[163/383] Processing: THE-PCR-SCAM-PCR-DOES-NOT-DETECT-SARS-COV-2.docx
+  Title: PCR SCAM PCR DETECT SARS COV 2
+  Category: General Theology
+  Keywords: PCR SCAM PCR DETECT SARS COV 2
+  ✓ Metadata added successfully
+
+[164/383] Processing: Critique-of-Pre-Tribulation-Imminence.docx
+  Title: Critique Pre Tribulation Imminence
+  Category: Eschatology
+  Keywords: Critique Pre Tribulation Imminence
+  ✓ Metadata added successfully
+
+[165/383] Processing: Review-of-the-Science-Relevant-to-COVID-19-Social-Policy-Masks.docx
+  Title: Review Science Relevant COVID 19 Social Policy Masks
+  Category: Health and Healing
+  Keywords: Review Science Relevant COVID 19 Social Policy Masks
+  ✓ Metadata added successfully
+
+[166/383] Processing: Lesson-3-Revelation-14-5-Greeting-to-7-Assemblies-in-Asia.docx
+  Title: Lesson 3 Revelation 14 5 Greeting 7 Assemblies Asia
+  Category: Eschatology
+  Keywords: Lesson 3 Revelation 14 5 Greeting 7 Assemblies Asia
+  ✓ Metadata added successfully
+
+[167/383] Processing: The-Millennial-Week-CHILIASM-In-the-Early-Christian-Eschatology.docx
+  Title: Millennial Week CHILIASM Early Christian Eschatology
+  Category: Eschatology
+  Keywords: Millennial Week CHILIASM Early Christian Eschatology
+  ✓ Metadata added successfully
+
+[168/383] Processing: Jewish-Encyclopedia-statement-on-Immortality-Soul.docx
+  Title: Jewish Encyclopedia statement Immortality Soul
+  Category: Death and Resurrection
+  Keywords: Jewish Encyclopedia statement Immortality Soul
+  ✓ Metadata added successfully
+
+[169/383] Processing: Life-Death-and-Resurrection-in-the-Pauline-Epistles.docx
+  Title: Life Death Resurrection Pauline Epistles
+  Category: Death and Resurrection
+  Keywords: Life Death Resurrection Pauline Epistles
+  ✓ Metadata added successfully
+
+[170/383] Processing: 1-Total-Depravity-Calvinism.docx
+  Title: Total Depravity Calvinism
+  Category: Calvinism
+  Keywords: Total Depravity Calvinism
+  ✓ Metadata added successfully
+
+[171/383] Processing: How-Many-Second-Comings-Part-2.docx
+  Title: Second Comings Part 2
+  Category: Eschatology
+  Keywords: Second Comings Part 2
+  ✓ Metadata added successfully
+
+[172/383] Processing: The-Son-of-God-in-Matthew-Mark-and-Luke.docx
+  Title: Son God Matthew Mark Luke
+  Category: Theology
+  Keywords: Son God Matthew Mark Luke
+  ✓ Metadata added successfully
+
+[173/383] Processing: Let-the-Dead-Bury-their-Dead.docx
+  Title: Let Dead Bury Dead
+  Category: General Theology
+  Keywords: Let Dead Bury Dead
+  ✓ Metadata added successfully
+
+[174/383] Processing: Objection-3-Tongues-have-ceased.docx
+  Title: Objection 3 Tongues ceased
+  Category: General Theology
+  Keywords: Objection 3 Tongues ceased
+  ✓ Metadata added successfully
+
+[175/383] Processing: Did-Angels-Have-Sex-with-Women-based-on-Genesis-6-Part-2-Nephilim.docx
+  Title: Angels Sex Women based Genesis 6 Part 2 Nephilim
+  Category: Family and Relationships
+  Keywords: Angels Sex Women based Genesis 6 Part 2 Nephilim
+  ✓ Metadata added successfully
+
+[176/383] Processing: Did-Angels-Have-Sex-with-Women-based-on-Genesis-6-Part-3-Source-of-Fallen-Angels-Myth.docx
+  Title: Angels Sex Women based Genesis 6 Part 3 Source Fallen Angels Myth
+  Category: Family and Relationships
+  Keywords: Angels Sex Women based Genesis 6 Part 3 Source Fallen Angels Myth
+  ✓ Metadata added successfully
+
+[177/383] Processing: Did-God-Create-All-Things-Alone-Isaiah-4424.docx
+  Title: God Create Alone Isaiah 4424
+  Category: Theology
+  Keywords: God Create Alone Isaiah 4424
+  ✓ Metadata added successfully
+
+[178/383] Processing: Did-Lockdowns-work-or-did-they-do-more-Harm.docx
+  Title: Lockdowns work Harm
+  Category: General Theology
+  Keywords: Lockdowns work Harm
+  ✓ Metadata added successfully
+
+[179/383] Processing: Should-Christians-use-Birth-Control.docx
+  Title: Christians Birth Control
+  Category: Theology
+  Keywords: Christians Birth Control
+  ✓ Metadata added successfully
+
+[180/383] Processing: Ten-Toes-Rising-Now-Revelation-1712-14.docx
+  Title: Toes Rising Now Revelation 1712 14
+  Category: Eschatology
+  Keywords: Toes Rising Now Revelation 1712 14
+  ✓ Metadata added successfully
+
+[181/383] Processing: 5th-Seal-Revelation-69-11-Souls-Under-the-Altar.docx
+  Title: 5th Seal Revelation 69 11 Souls Altar
+  Category: Eschatology
+  Keywords: 5th Seal Revelation 69 11 Souls Altar
+  ✓ Metadata added successfully
+
+[182/383] Processing: 6-Gods-Will-Calvinism.docx
+  Title: Gods Calvinism
+  Category: Calvinism
+  Keywords: Gods Calvinism
+  ✓ Metadata added successfully
+
+[183/383] Processing: A-Biblical-Soul-Nephesh-is-the-whole-Person-including-the-Body.docx
+  Title: Biblical Soul Nephesh whole Person including Body
+  Category: Theology
+  Keywords: Biblical Soul Nephesh whole Person including Body
+  ✓ Metadata added successfully
+
+[184/383] Processing: Acts-A-Gold-Mine-of-Kingdom-Treasures.docx
+  Title: Acts Gold Mine Kingdom Treasures
+  Category: General Theology
+  Keywords: Acts Gold Mine Kingdom Treasures
+  ✓ Metadata added successfully
+
+[185/383] Processing: 10-Questions-for-Trinitarians.docx
+  Title: Questions Trinitarians
+  Category: General Theology
+  Keywords: Questions Trinitarians
+  ✓ Metadata added successfully
+
+[186/383] Processing: 9-Where-Calvinism-Leads.docx
+  Title: Calvinism Leads
+  Category: Calvinism
+  Keywords: Calvinism Leads
+  ✓ Metadata added successfully
+
+[187/383] Processing: About-Hebrew-Parallelism-called-Chiasmus-which-equates-to-Poetry.docx
+  Title: Hebrew Parallelism called Chiasmus equates Poetry
+  Category: Biblical Languages
+  Keywords: Hebrew Parallelism called Chiasmus equates Poetry
+  ✓ Metadata added successfully
+
+[188/383] Processing: Is-Adonikam-the-Name-of-the-Antichrist.docx
+  Title: Adonikam Name Antichrist
+  Category: Theology
+  Keywords: Adonikam Name Antichrist
+  ✓ Metadata added successfully
+
+[189/383] Processing: Israel-and-the-Church-in-the-End-Times.docx
+  Title: Israel Church End Times
+  Category: Eschatology
+  Keywords: Israel Church End Times
+  ✓ Metadata added successfully
+
+[190/383] Processing: Can-Salvation-Be-Lost-Once-It-Has-Been-Given.docx
+  Title: Salvation Lost Given
+  Category: Salvation
+  Keywords: Salvation Lost Given
+  ✓ Metadata added successfully
+
+[191/383] Processing: The-Gospel-is-about-the-Kingdom-of-God.docx
+  Title: Gospel Kingdom God
+  Category: Theology
+  Keywords: Gospel Kingdom God
+  ✓ Metadata added successfully
+
+[192/383] Processing: Are-Abraham-Isaac-and-Jacob-alive-in-Heaven.docx
+  Title: Abraham Isaac Jacob alive Heaven
+  Category: General Theology
+  Keywords: Abraham Isaac Jacob alive Heaven
+  ✓ Metadata added successfully
+
+[193/383] Processing: The-Word-Tenses-of-Salvation.docx
+  Title: Word Tenses Salvation
+  Category: Salvation
+  Keywords: Word Tenses Salvation
+  ✓ Metadata added successfully
+
+[194/383] Processing: Tongues-Throughout-Church-History.docx
+  Title: Tongues Church History
+  Category: Church Practices
+  Keywords: Tongues Church History
+  ✓ Metadata added successfully
+
+[195/383] Processing: The-Gnostic-Pantheon-Gnosticism-Part-3.docx
+  Title: Gnostic Pantheon Gnosticism Part 3
+  Category: Apologetics
+  Keywords: Gnostic Pantheon Gnosticism Part 3
+  ✓ Metadata added successfully
+
+[196/383] Processing: What-is-Dispensationalism.docx
+  Title: Dispensationalism
+  Category: General Theology
+  Keywords: Dispensationalism
+  ✓ Metadata added successfully
+
+[197/383] Processing: The-Wheat-and-Tares-Parable-Speaks-of-1-Rapture.docx
+  Title: Wheat Tares Parable Speaks 1 Rapture
+  Category: Eschatology
+  Keywords: Wheat Tares Parable Speaks 1 Rapture
+  ✓ Metadata added successfully
+
+[198/383] Processing: Logos-Preexistence-of-Messiah-in-Ancient-Judaism.docx
+  Title: Logos Preexistence Messiah Ancient Judaism
+  Category: General Theology
+  Keywords: Logos Preexistence Messiah Ancient Judaism
+  ✓ Metadata added successfully
+
+[199/383] Processing: Old-Testament-References-in-the-Book-of-Revelation.docx
+  Title: Old Testament References Book Revelation
+  Category: Eschatology
+  Keywords: Old Testament References Book Revelation
+  ✓ Metadata added successfully
+
+[200/383] Processing: Conditional-Security-versus-Unconditional-Eternal-Security.docx
+  Title: Conditional Security Unconditional Eternal Security
+  Category: General Theology
+  Keywords: Conditional Security Unconditional Eternal Security
+  ✓ Metadata added successfully
+
+[201/383] Processing: Pauls-Experience-With-Speaking-in-Tongues.docx
+  Title: Pauls Experience Speaking Tongues
+  Category: General Theology
+  Keywords: Pauls Experience Speaking Tongues
+  ✓ Metadata added successfully
+
+[202/383] Processing: The-Rich-Man-and-Lazarus-by-Edward-Fudge.docx
+  Title: Rich Man Lazarus Edward Fudge
+  Category: General Theology
+  Keywords: Rich Man Lazarus Edward Fudge
+  ✓ Metadata added successfully
+
+[203/383] Processing: Isaiah-53-and-Physical-Healing.docx
+  Title: Isaiah 53 Physical Healing
+  Category: Health and Healing
+  Keywords: Isaiah 53 Physical Healing
+  ✓ Metadata added successfully
+
+[204/383] Processing: Hindrances-to-Receiving-the-Holy-Spirit.docx
+  Title: Hindrances Receiving Holy Spirit
+  Category: Theology
+  Keywords: Hindrances Receiving Holy Spirit
+  ✓ Metadata added successfully
+
+[205/383] Processing: The-Coming-Kingdom-in-the-Gospels.docx
+  Title: Coming Kingdom Gospels
+  Category: General Theology
+  Keywords: Coming Kingdom Gospels
+  ✓ Metadata added successfully
+
+[206/383] Processing: 7-The-Power-of-the-Gospel-Calvinism-Series.docx
+  Title: Power Gospel Calvinism Series
+  Category: Calvinism
+  Keywords: Power Gospel Calvinism Series
+  ✓ Metadata added successfully
+
+[207/383] Processing: The-Case-for-Annihilation-of-the-Unbelievers-the-Wicked.docx
+  Title: Case Annihilation Unbelievers Wicked
+  Category: General Theology
+  Keywords: Case Annihilation Unbelievers Wicked
+  ✓ Metadata added successfully
+
+[208/383] Processing: Annihilation-in-the-Lake-of-Fire.docx
+  Title: Annihilation Lake Fire
+  Category: General Theology
+  Keywords: Annihilation Lake Fire
+  ✓ Metadata added successfully
+
+[209/383] Processing: The-Coexistence-of-Sovereignty-and-Free-Will-Calvinism-Series.docx
+  Title: Coexistence Sovereignty Free Calvinism Series
+  Category: Calvinism
+  Keywords: Coexistence Sovereignty Free Calvinism Series
+  ✓ Metadata added successfully
+
+[210/383] Processing: Baptism-According-to-the-Second-Century-Christians.docx
+  Title: Baptism According Second Century Christians
+  Category: Church Practices
+  Keywords: Baptism According Second Century Christians
+  ✓ Metadata added successfully
+
+[211/383] Processing: Progressive-Dispensationalism-101-The-Basics.docx
+  Title: Progressive Dispensationalism 101 Basics
+  Category: General Theology
+  Keywords: Progressive Dispensationalism 101 Basics
+  ✓ Metadata added successfully
+
+[212/383] Processing: We-Have-No-Need-Of-Teachers.docx
+  Title: Need Teachers
+  Category: General Theology
+  Keywords: Need Teachers
+  ✓ Metadata added successfully
+
+[213/383] Processing: How-to-Reconcile-Old-and-New-Testaments-For-End-Times.docx
+  Title: Reconcile Old New Testaments End Times
+  Category: Eschatology
+  Keywords: Reconcile Old New Testaments End Times
+  ✓ Metadata added successfully
+
+[214/383] Processing: Revelation-Lesson-1-Introduction.docx
+  Title: Revelation Lesson 1 Introduction
+  Category: Eschatology
+  Keywords: Revelation Lesson 1 Introduction
+  ✓ Metadata added successfully
+
+[215/383] Processing: Peters-First-Sermon-Acts-215-21.docx
+  Title: Peters First Sermon Acts 215 21
+  Category: General Theology
+  Keywords: Peters First Sermon Acts 215 21
+  ✓ Metadata added successfully
+
+[216/383] Processing: Who-are-the-24-Elders-in-Revelation-58.docx
+  Title: 24 Elders Revelation 58
+  Category: Eschatology
+  Keywords: 24 Elders Revelation 58
+  ✓ Metadata added successfully
+
+[217/383] Processing: Irenaeus-Believed-All-Christians-had-an-Abrahamic-Land-Inheritance.docx
+  Title: Irenaeus Believed Christians Abrahamic Land Inheritance
+  Category: Theology
+  Keywords: Irenaeus Believed Christians Abrahamic Land Inheritance
+  ✓ Metadata added successfully
+
+[218/383] Processing: What-do-you-know-about-Fluoride.docx
+  Title: know Fluoride
+  Category: General Theology
+  Keywords: know Fluoride
+  ✓ Metadata added successfully
+
+[219/383] Processing: Christians-Not-Appointed-to-Wrath.docx
+  Title: Christians Appointed Wrath
+  Category: Theology
+  Keywords: Christians Appointed Wrath
+  ✓ Metadata added successfully
+
+[220/383] Processing: The-First-Resurrection-in-Revelation.docx
+  Title: First Resurrection Revelation
+  Category: Eschatology
+  Keywords: First Resurrection Revelation
+  ✓ Metadata added successfully
+
+[221/383] Processing: The-Kingdom-Hope-In-the-Old-Testament.docx
+  Title: Kingdom Hope Old Testament
+  Category: General Theology
+  Keywords: Kingdom Hope Old Testament
+  ✓ Metadata added successfully
+
+[222/383] Processing: Case-for-a-Second-Group-of-144000-being-Sethites-in-Revelation-141-5.docx
+  Title: Case Second Group 144000 being Sethites Revelation 141 5
+  Category: Eschatology
+  Keywords: Case Second Group 144000 being Sethites Revelation 141 5
+  ✓ Metadata added successfully
+
+[223/383] Processing: The-120-Jubilee-Year-Calendar-According-to-Scripture.docx
+  Title: 120 Jubilee Year Calendar According Scripture
+  Category: Biblical Studies
+  Keywords: 120 Jubilee Year Calendar According Scripture
+  ✓ Metadata added successfully
+
+[224/383] Processing: Why-a-Biblical-Positive-Confession-Matters.docx
+  Title: Biblical Positive Confession Matters
+  Category: General Theology
+  Keywords: Biblical Positive Confession Matters
+  ✓ Metadata added successfully
+
+[225/383] Processing: What-is-Repentance.docx
+  Title: Repentance
+  Category: General Theology
+  Keywords: Repentance
+  ✓ Metadata added successfully
+
+[226/383] Processing: How-Many-Second-Comings-Part-3.docx
+  Title: Second Comings Part 3
+  Category: Eschatology
+  Keywords: Second Comings Part 3
+  ✓ Metadata added successfully
+
+[227/383] Processing: How-many-times-is-Hell-mentioned-in-the-Bible.docx
+  Title: times Hell mentioned Bible
+  Category: Biblical Studies
+  Keywords: times Hell mentioned Bible
+  ✓ Metadata added successfully
+
+[228/383] Processing: The-Martyrdom-Of-Polycarp-Bishop-of-Smyrna.docx
+  Title: Martyrdom Polycarp Bishop Smyrna
+  Category: General Theology
+  Keywords: Martyrdom Polycarp Bishop Smyrna
+  ✓ Metadata added successfully
+
+[229/383] Processing: Reasons-Why-People-Do-Not-Study-Eschatology.docx
+  Title: Reasons People Study Eschatology
+  Category: Eschatology
+  Keywords: Reasons People Study Eschatology
+  ✓ Metadata added successfully
+
+[230/383] Processing: Is-the-Apostle-John-the-2nd-Witness-with-Elijah-in-the-Book-of-Revelation.docx
+  Title: Apostle John 2nd Witness Elijah Book Revelation
+  Category: Eschatology
+  Keywords: Apostle John 2nd Witness Elijah Book Revelation
+  ✓ Metadata added successfully
+
+[231/383] Processing: How-Plato-Influenced-Our-View-of-God.docx
+  Title: Plato Influenced View God
+  Category: Theology
+  Keywords: Plato Influenced View God
+  ✓ Metadata added successfully
+
+[232/383] Processing: What-is-Hebrew-chiasm-chiastic-chiasmus-structure-in-the-Bible.docx
+  Title: Hebrew chiasm chiastic chiasmus structure Bible
+  Category: Biblical Languages
+  Keywords: Hebrew chiasm chiastic chiasmus structure Bible
+  ✓ Metadata added successfully
+
+[233/383] Processing: What-is-the-Problem-with-Sugar.docx
+  Title: Problem Sugar
+  Category: General Theology
+  Keywords: Problem Sugar
+  ✓ Metadata added successfully
+
+[234/383] Processing: God-Intended-us-to-have-enough-Vitamin-C.docx
+  Title: God Intended Vitamin C
+  Category: Theology
+  Keywords: God Intended Vitamin C
+  ✓ Metadata added successfully
+
+[235/383] Processing: A-Logical-look-at-The-Rapture-the-Timing.docx
+  Title: Logical look Rapture Timing
+  Category: Eschatology
+  Keywords: Logical look Rapture Timing
+  ✓ Metadata added successfully
+
+[236/383] Processing: What-is-Historic-Premillennialism.docx
+  Title: Historic Premillennialism
+  Category: General Theology
+  Keywords: Historic Premillennialism
+  ✓ Metadata added successfully
+
+[237/383] Processing: Shaliah-Jewish-Law-of-Agency.docx
+  Title: Shaliah Jewish Law Agency
+  Category: General Theology
+  Keywords: Shaliah Jewish Law Agency
+  ✓ Metadata added successfully
+
+[238/383] Processing: Progressive-Dispensationalism-Introduction.docx
+  Title: Progressive Dispensationalism Introduction
+  Category: General Theology
+  Keywords: Progressive Dispensationalism Introduction
+  ✓ Metadata added successfully
+
+[239/383] Processing: Shavuot-Pentecost-50th-Day-7-Weeks.docx
+  Title: Shavuot Pentecost 50th Day 7 Weeks
+  Category: General Theology
+  Keywords: Shavuot Pentecost 50th Day 7 Weeks
+  ✓ Metadata added successfully
+
+[240/383] Processing: The-Kingdom-Hope-in-the-Parables-of-Jesus.docx
+  Title: Kingdom Hope Parables Jesus
+  Category: Theology
+  Keywords: Kingdom Hope Parables Jesus
+  ✓ Metadata added successfully
+
+[241/383] Processing: The-Dangers-of-Bad-Doctrine.docx
+  Title: Dangers Bad Doctrine
+  Category: General Theology
+  Keywords: Dangers Bad Doctrine
+  ✓ Metadata added successfully
+
+[242/383] Processing: The-Lake-of-Fire-is-Hell-and-Nothing-Else.docx
+  Title: Lake Fire Hell
+  Category: General Theology
+  Keywords: Lake Fire Hell
+  ✓ Metadata added successfully
+
+[243/383] Processing: The-Last-Trumpet-1-Corinthians-15.docx
+  Title: Last Trumpet 1 Corinthians 15
+  Category: General Theology
+  Keywords: Last Trumpet 1 Corinthians 15
+  ✓ Metadata added successfully
+
+[244/383] Processing: Tongues-Prayer-Language-Versus-Public-Gift.docx
+  Title: Tongues Prayer Language Public Gift
+  Category: General Theology
+  Keywords: Tongues Prayer Language Public Gift
+  ✓ Metadata added successfully
+
+[245/383] Processing: Parable-of-the-Soils-and-Applying-it-Today.docx
+  Title: Parable Soils Applying Today
+  Category: General Theology
+  Keywords: Parable Soils Applying Today
+  ✓ Metadata added successfully
+
+[246/383] Processing: Is-the-Sinners-Prayer-in-the-Bible.docx
+  Title: Sinners Prayer Bible
+  Category: Biblical Studies
+  Keywords: Sinners Prayer Bible
+  ✓ Metadata added successfully
+
+[247/383] Processing: The-Pagan-Hope-of-Heaven-Infects-the-Churches.docx
+  Title: Pagan Hope Heaven Infects Churches
+  Category: Church Practices
+  Keywords: Pagan Hope Heaven Infects Churches
+  ✓ Metadata added successfully
+
+[248/383] Processing: Who-is-the-Alpha-and-Omega-in-Revelation.docx
+  Title: Alpha Omega Revelation
+  Category: Eschatology
+  Keywords: Alpha Omega Revelation
+  ✓ Metadata added successfully
+
+[249/383] Processing: Preterism-Time-Texts-in-the-New-Testament.docx
+  Title: Preterism Time Texts New Testament
+  Category: General Theology
+  Keywords: Preterism Time Texts New Testament
+  ✓ Metadata added successfully
+
+[250/383] Processing: Preterist-Historicist-Idealist-and-Futurist-Views-of-Bible-Prophecy.docx
+  Title: Preterist Historicist Idealist Futurist Views Bible Prophecy
+  Category: Eschatology
+  Keywords: Preterist Historicist Idealist Futurist Views Bible Prophecy
+  ✓ Metadata added successfully
+
+[251/383] Processing: Progressive-Dispensationalism-102-An-Overview.docx
+  Title: Progressive Dispensationalism 102 Overview
+  Category: General Theology
+  Keywords: Progressive Dispensationalism 102 Overview
+  ✓ Metadata added successfully
+
+[252/383] Processing: Preterism-Secret-Second-Coming-of-Jesus.docx
+  Title: Preterism Secret Second Coming Jesus
+  Category: Eschatology
+  Keywords: Preterism Secret Second Coming Jesus
+  ✓ Metadata added successfully
+
+[253/383] Processing: A-Not-So-Divine-Tragedy-Gnosticism-Part-4.docx
+  Title: Divine Tragedy Gnosticism Part 4
+  Category: Apologetics
+  Keywords: Divine Tragedy Gnosticism Part 4
+  ✓ Metadata added successfully
+
+[254/383] Processing: Jesus-Parable-of-the-10-Virgins.docx
+  Title: Jesus Parable 10 Virgins
+  Category: Theology
+  Keywords: Jesus Parable 10 Virgins
+  ✓ Metadata added successfully
+
+[255/383] Processing: Positive-Reasons-to-Study-Eschatology.docx
+  Title: Positive Reasons Study Eschatology
+  Category: Eschatology
+  Keywords: Positive Reasons Study Eschatology
+  ✓ Metadata added successfully
+
+[256/383] Processing: Why-Would-Anyone-Want-to-Be-a-Christian.docx
+  Title: Want Christian
+  Category: Theology
+  Keywords: Want Christian
+  ✓ Metadata added successfully
+
+[257/383] Processing: The-Day-of-the-Lord-and-the-Rapture.docx
+  Title: Day Lord Rapture
+  Category: Eschatology
+  Keywords: Day Lord Rapture
+  ✓ Metadata added successfully
+
+[258/383] Processing: What-is-Love-as-Defined-by-the-Bible.docx
+  Title: Love Defined Bible
+  Category: Biblical Studies
+  Keywords: Love Defined Bible
+  ✓ Metadata added successfully
+
+[259/383] Processing: Where-is-the-Church-in-the-Book-of-Revelation.docx
+  Title: Church Book Revelation
+  Category: Eschatology
+  Keywords: Church Book Revelation
+  ✓ Metadata added successfully
+
+[260/383] Processing: Why-Doesnt-the-Trinity-Have-Three-Thrones-in-Heaven.docx
+  Title: Doesnt Trinity Thrones Heaven
+  Category: Theology
+  Keywords: Doesnt Trinity Thrones Heaven
+  ✓ Metadata added successfully
+
+[261/383] Processing: In-the-Tribulation-there-will-be-a-Place-of-refuge-for-Christians.docx
+  Title: Tribulation Place refuge Christians
+  Category: Eschatology
+  Keywords: Tribulation Place refuge Christians
+  ✓ Metadata added successfully
+
+[262/383] Processing: The-Error-of-Replacement-Theology.docx
+  Title: Error Replacement Theology
+  Category: Apologetics
+  Keywords: Error Replacement Theology
+  ✓ Metadata added successfully
+
+[263/383] Processing: Why-Did-the-Apostles-Keep-Jewish-Traditions-and-Laws.docx
+  Title: Apostles Keep Jewish Traditions Laws
+  Category: General Theology
+  Keywords: Apostles Keep Jewish Traditions Laws
+  ✓ Metadata added successfully
+
+[264/383] Processing: Olam-and-Aion-do-Not-mean-Inifinte-Time-in-Hebrew-or-Greek.docx
+  Title: Olam Aion mean Inifinte Time Hebrew Greek
+  Category: Biblical Languages
+  Keywords: Olam Aion mean Inifinte Time Hebrew Greek
+  ✓ Metadata added successfully
+
+[265/383] Processing: Origins-of-the-Heavenly-Destiny-Not-The-Bible.docx
+  Title: Origins Heavenly Destiny Bible
+  Category: Biblical Studies
+  Keywords: Origins Heavenly Destiny Bible
+  ✓ Metadata added successfully
+
+[266/383] Processing: Perseverance-of-the-Saints-Calvinism-Part-6.docx
+  Title: Perseverance Saints Calvinism Part 6
+  Category: Calvinism
+  Keywords: Perseverance Saints Calvinism Part 6
+  ✓ Metadata added successfully
+
+[267/383] Processing: Misconception-5-Tongues-are-just-the-ability-to-speak-in-a-foreign-language.docx
+  Title: Misconception 5 Tongues just ability speak foreign language
+  Category: General Theology
+  Keywords: Misconception 5 Tongues just ability speak foreign language
+  ✓ Metadata added successfully
+
+[268/383] Processing: More-Details-About-Daniels-70-Weeks-Prophesy.docx
+  Title: Details Daniels 70 Weeks Prophesy
+  Category: Prophecy
+  Keywords: Details Daniels 70 Weeks Prophesy
+  ✓ Metadata added successfully
+
+[269/383] Processing: Preterism-Proof-Text-Hebrews-1228.docx
+  Title: Preterism Proof Text Hebrews 1228
+  Category: Biblical Languages
+  Keywords: Preterism Proof Text Hebrews 1228
+  ✓ Metadata added successfully
+
+[270/383] Processing: Torah-Covenants-and-the-Hebrew-Roots-Movement-Using-Galatians-3.docx
+  Title: Torah Covenants Hebrew Roots Movement Using Galatians 3
+  Category: Biblical Languages
+  Keywords: Torah Covenants Hebrew Roots Movement Using Galatians 3
+  ✓ Metadata added successfully
+
+[271/383] Processing: Total-Depravity-Calvinism-Part-2.docx
+  Title: Total Depravity Calvinism Part 2
+  Category: Calvinism
+  Keywords: Total Depravity Calvinism Part 2
+  ✓ Metadata added successfully
+
+[272/383] Processing: Peters-Later-Thoughts-The-Epistles.docx
+  Title: Peters Later Thoughts Epistles
+  Category: General Theology
+  Keywords: Peters Later Thoughts Epistles
+  ✓ Metadata added successfully
+
+[273/383] Processing: The-Jesus-that-Peter-taught-in-His-First-Sermon.docx
+  Title: Jesus Peter taught First Sermon
+  Category: Theology
+  Keywords: Jesus Peter taught First Sermon
+  ✓ Metadata added successfully
+
+[274/383] Processing: God-will-Keep-His-Promise-to-Abraham-about-the-Permanent-Land-Inheritance.docx
+  Title: God Keep Promise Abraham Permanent Land Inheritance
+  Category: Theology
+  Keywords: God Keep Promise Abraham Permanent Land Inheritance
+  ✓ Metadata added successfully
+
+[275/383] Processing: Why-the-Human-Jesus-is-called-Son-of-God.docx
+  Title: Human Jesus called Son God
+  Category: Theology
+  Keywords: Human Jesus called Son God
+  ✓ Metadata added successfully
+
+[276/383] Processing: The-Millennial-Week-Calendar-According-to-Scripture.docx
+  Title: Millennial Week Calendar According Scripture
+  Category: Biblical Studies
+  Keywords: Millennial Week Calendar According Scripture
+  ✓ Metadata added successfully
+
+[277/383] Processing: The-Nuremberg-Code-The-Rights-of-Individuals-Must-Come-First.docx
+  Title: Nuremberg Code Rights Individuals Come First
+  Category: General Theology
+  Keywords: Nuremberg Code Rights Individuals Come First
+  ✓ Metadata added successfully
+
+[278/383] Processing: Did-the-Son-of-God-or-Son-of-Man-have-1-or-2-Origins.docx
+  Title: Son God Son Man 1 2 Origins
+  Category: Theology
+  Keywords: Son God Son Man 1 2 Origins
+  ✓ Metadata added successfully
+
+[279/383] Processing: The-Abrahamic-Faith-The-Sabbath-Rest-According-to-the-Early-Christians.docx
+  Title: Abrahamic Faith Sabbath Rest According Early Christians
+  Category: Theology
+  Keywords: Abrahamic Faith Sabbath Rest According Early Christians
+  ✓ Metadata added successfully
+
+[280/383] Processing: Does-the-Grace-in-Ephesians-28-9-Exclude-Baptism.docx
+  Title: Grace Ephesians 28 9 Exclude Baptism
+  Category: Church Practices
+  Keywords: Grace Ephesians 28 9 Exclude Baptism
+  ✓ Metadata added successfully
+
+[281/383] Processing: Lesson-24-Revelation-101-11-Little-Scroll-and-7-Thunders.docx
+  Title: Lesson 24 Revelation 101 11 Little Scroll 7 Thunders
+  Category: Eschatology
+  Keywords: Lesson 24 Revelation 101 11 Little Scroll 7 Thunders
+  ✓ Metadata added successfully
+
+[282/383] Processing: Has-Christianity-Made-Up-Its-Own-Meaning-of-Fornication-to-Mean-Sex-Before-Marriage.docx
+  Title: Christianity Made Meaning Fornication Mean Sex Marriage
+  Category: Theology
+  Keywords: Christianity Made Meaning Fornication Mean Sex Marriage
+  ✓ Metadata added successfully
+
+[283/383] Processing: Who-will-Inherit-the-Kingdom-of-God.docx
+  Title: Inherit Kingdom God
+  Category: Theology
+  Keywords: Inherit Kingdom God
+  ✓ Metadata added successfully
+
+[284/383] Processing: Do-all-Religions-Point-to-the-same-God.docx
+  Title: Religions Point God
+  Category: Theology
+  Keywords: Religions Point God
+  ✓ Metadata added successfully
+
+[285/383] Processing: What-are-the-differences-between-the-Sadducees-and-Pharisees.docx
+  Title: differences Sadducees Pharisees
+  Category: General Theology
+  Keywords: differences Sadducees Pharisees
+  ✓ Metadata added successfully
+
+[286/383] Processing: A-Celestial-Court-Operates-During-the-Tribulation.docx
+  Title: Celestial Court Operates Tribulation
+  Category: Eschatology
+  Keywords: Celestial Court Operates Tribulation
+  ✓ Metadata added successfully
+
+[287/383] Processing: Jesus-is-Not-Yet-Seated-on-Davids-Throne.docx
+  Title: Jesus Seated Davids Throne
+  Category: Theology
+  Keywords: Jesus Seated Davids Throne
+  ✓ Metadata added successfully
+
+[288/383] Processing: Jewish-Wedding-Customs-and-the-Rapture.docx
+  Title: Jewish Wedding Customs Rapture
+  Category: Eschatology
+  Keywords: Jewish Wedding Customs Rapture
+  ✓ Metadata added successfully
+
+[289/383] Processing: What-is-Going-on-in-the-World-Braxton-Hicks-Contractions.docx
+  Title: Going World Braxton Hicks Contractions
+  Category: General Theology
+  Keywords: Going World Braxton Hicks Contractions
+  ✓ Metadata added successfully
+
+[290/383] Processing: What-is-Spirit-in-the-Bible.docx
+  Title: Spirit Bible
+  Category: Biblical Studies
+  Keywords: Spirit Bible
+  ✓ Metadata added successfully
+
+[291/383] Processing: Why-do-we-Have-Two-Teachings-on-The-Rapture.docx
+  Title: Teachings Rapture
+  Category: Eschatology
+  Keywords: Teachings Rapture
+  ✓ Metadata added successfully
+
+[292/383] Processing: Hebrew-Thinking-VsGreek-Thinking.docx
+  Title: Hebrew Thinking VsGreek Thinking
+  Category: Biblical Languages
+  Keywords: Hebrew Thinking VsGreek Thinking
+  ✓ Metadata added successfully
+
+[293/383] Processing: Will-We-Become-Immortal-in-the-Resurrection.docx
+  Title: Immortal Resurrection
+  Category: Death and Resurrection
+  Keywords: Immortal Resurrection
+  ✓ Metadata added successfully
+
+[294/383] Processing: The-Gnostic-Hall-of-Infamy-Gnosticism-Part-7.docx
+  Title: Gnostic Hall Infamy Gnosticism Part 7
+  Category: Apologetics
+  Keywords: Gnostic Hall Infamy Gnosticism Part 7
+  ✓ Metadata added successfully
+
+[295/383] Processing: The-Hebrew-word-Sheol-shows-us-Dead-People-are-Dead.docx
+  Title: Hebrew word Sheol shows Dead People Dead
+  Category: Biblical Languages
+  Keywords: Hebrew word Sheol shows Dead People Dead
+  ✓ Metadata added successfully
+
+[296/383] Processing: The-Ten-Commandments-Under-the-New-Covenant.docx
+  Title: Commandments New Covenant
+  Category: General Theology
+  Keywords: Commandments New Covenant
+  ✓ Metadata added successfully
+
+[297/383] Processing: The-Twenty-Four-Elders-Do-They-Represent-the-Raptured-Church-in-Heaven.docx
+  Title: Twenty Elders Represent Raptured Church Heaven
+  Category: Eschatology
+  Keywords: Twenty Elders Represent Raptured Church Heaven
+  ✓ Metadata added successfully
+
+[298/383] Processing: A-Discussion-of-Pre-and-Post-Tribulation-Scripture-Support.docx
+  Title: Discussion Pre Post Tribulation Scripture Support
+  Category: Eschatology
+  Keywords: Discussion Pre Post Tribulation Scripture Support
+  ✓ Metadata added successfully
+
+[299/383] Processing: Jesus-Created-All-Things-Colossians-116-18.docx
+  Title: Jesus Created Colossians 116 18
+  Category: Theology
+  Keywords: Jesus Created Colossians 116 18
+  ✓ Metadata added successfully
+
+[300/383] Processing: Benefits-of-Being-You-and-Loved-by-God.docx
+  Title: Benefits Being Loved God
+  Category: Theology
+  Keywords: Benefits Being Loved God
+  ✓ Metadata added successfully
+
+[301/383] Processing: Inconsistent-Translation-of-Hebrew-Words-for-example-Heart.docx
+  Title: Inconsistent Translation Hebrew Words example Heart
+  Category: Biblical Languages
+  Keywords: Inconsistent Translation Hebrew Words example Heart
+  ✓ Metadata added successfully
+
+[302/383] Processing: The-Rich-Man-Lazarus-is-Not-a-Picture-of-Heaven-and-Hell-Luke-1619-31.docx
+  Title: Rich Man Lazarus Picture Heaven Hell Luke 1619 31
+  Category: General Theology
+  Keywords: Rich Man Lazarus Picture Heaven Hell Luke 1619 31
+  ✓ Metadata added successfully
+
+[303/383] Processing: Detailed-look-at-Lazarus-and-the-Rich-man.docx
+  Title: Detailed look Lazarus Rich man
+  Category: General Theology
+  Keywords: Detailed look Lazarus Rich man
+  ✓ Metadata added successfully
+
+[304/383] Processing: Did-the-Holy-Spirit-Father-All-the-Disciples.docx
+  Title: Holy Spirit Father Disciples
+  Category: Theology
+  Keywords: Holy Spirit Father Disciples
+  ✓ Metadata added successfully
+
+[305/383] Processing: What-are-Vitamins-and-Why-do-we-Need-Them.docx
+  Title: Vitamins Need
+  Category: Health and Healing
+  Keywords: Vitamins Need
+  ✓ Metadata added successfully
+
+[306/383] Processing: Unconditional-Election-Calvinism-Part-3.docx
+  Title: Unconditional Election Calvinism Part 3
+  Category: Calvinism
+  Keywords: Unconditional Election Calvinism Part 3
+  ✓ Metadata added successfully
+
+[307/383] Processing: My-Personal-Journey-to-a-Truth-about-Makeup.docx
+  Title: Personal Journey Truth Makeup
+  Category: Theology
+  Keywords: Personal Journey Truth Makeup
+  ✓ Metadata added successfully
+
+[308/383] Processing: Jesus-taught-the-Disciples-for-40-Days-after-His-Resurrection.docx
+  Title: Jesus taught Disciples 40 Days Resurrection
+  Category: Theology
+  Keywords: Jesus taught Disciples 40 Days Resurrection
+  ✓ Metadata added successfully
+
+[309/383] Processing: Paul-and-the-UNKNOWN-God-shows-that-God-is-Not-a-Trinity.docx
+  Title: Paul UNKNOWN God shows God Trinity
+  Category: Theology
+  Keywords: Paul UNKNOWN God shows God Trinity
+  ✓ Metadata added successfully
+
+[310/383] Processing: Does-the-Falling-Away-the-Revelation-of-Man-of-Sin-come-First.docx
+  Title: Falling Away Revelation Man Sin come First
+  Category: Eschatology
+  Keywords: Falling Away Revelation Man Sin come First
+  ✓ Metadata added successfully
+
+[311/383] Processing: Free-Will-the-Early-Church-Calvinism-Part-11.docx
+  Title: Free Early Church Calvinism Part 11
+  Category: Calvinism
+  Keywords: Free Early Church Calvinism Part 11
+  ✓ Metadata added successfully
+
+[312/383] Processing: OSAS-Conditional-Security-versus-Unconditional-Eternal-Security.docx
+  Title: OSAS Conditional Security Unconditional Eternal Security
+  Category: General Theology
+  Keywords: OSAS Conditional Security Unconditional Eternal Security
+  ✓ Metadata added successfully
+
+[313/383] Processing: The-False-Prophet-in-Revelation-1311-14-Israels-Pseudo-Elijah.docx
+  Title: False Prophet Revelation 1311 14 Israels Pseudo Elijah
+  Category: Eschatology
+  Keywords: False Prophet Revelation 1311 14 Israels Pseudo Elijah
+  ✓ Metadata added successfully
+
+[314/383] Processing: The-Abrahamic-Inheritance-was-the-Earliest-Christian-Hope.docx
+  Title: Abrahamic Inheritance Earliest Christian Hope
+  Category: Theology
+  Keywords: Abrahamic Inheritance Earliest Christian Hope
+  ✓ Metadata added successfully
+
+[315/383] Processing: Addressing-the-statement-Christians-Not-Appointed-to-Wrath.docx
+  Title: Addressing statement Christians Appointed Wrath
+  Category: Theology
+  Keywords: Addressing statement Christians Appointed Wrath
+  ✓ Metadata added successfully
+
+[316/383] Processing: Information-about-Vitamin-C-that-you-have-not-Heard-About.docx
+  Title: Vitamin C Heard
+  Category: Health and Healing
+  Keywords: Vitamin C Heard
+  ✓ Metadata added successfully
+
+[317/383] Processing: Did-You-Know-That-Ancient-Greek-Did-Not-Have-Punctuation.docx
+  Title: Know Ancient Greek Punctuation
+  Category: Biblical Languages
+  Keywords: Know Ancient Greek Punctuation
+  ✓ Metadata added successfully
+
+[318/383] Processing: Dr-Yeadon-De-Population-and-All-the-main-issues-with-COVID-19-Vaccine-Debate.docx
+  Title: Dr Yeadon De Population issues COVID 19 Vaccine Debate
+  Category: Health and Healing
+  Keywords: Dr Yeadon De Population issues COVID 19 Vaccine Debate
+  ✓ Metadata added successfully
+
+[319/383] Processing: Were-Samuel-Moses-Elijah-Abraham-Isaac-and-Jacob-Alive-Before-the-Resurrection.docx
+  Title: Samuel Moses Elijah Abraham Isaac Jacob Alive Resurrection
+  Category: Death and Resurrection
+  Keywords: Samuel Moses Elijah Abraham Isaac Jacob Alive Resurrection
+  ✓ Metadata added successfully
+
+[320/383] Processing: Marriage-Gender-Roles-From-the-Beginning-of-the-Creation.docx
+  Title: Marriage Gender Roles Beginning Creation
+  Category: Family and Relationships
+  Keywords: Marriage Gender Roles Beginning Creation
+  ✓ Metadata added successfully
+
+[321/383] Processing: Proverbs-8-Jesus-is-The-Beginning-and-was-Begotten-by-God.docx
+  Title: Proverbs 8 Jesus Beginning Begotten God
+  Category: Theology
+  Keywords: Proverbs 8 Jesus Beginning Begotten God
+  ✓ Metadata added successfully
+
+[322/383] Processing: How-Much-Glory-and-Honour-do-you-Give-to-The-Father-our-God.docx
+  Title: Glory Honour Give Father God
+  Category: Theology
+  Keywords: Glory Honour Give Father God
+  ✓ Metadata added successfully
+
+[323/383] Processing: The-Controversy-over-Inserted-Trinity-Statement-in-1-John-57-8.docx
+  Title: Controversy Inserted Trinity Statement 1 John 57 8
+  Category: Theology
+  Keywords: Controversy Inserted Trinity Statement 1 John 57 8
+  ✓ Metadata added successfully
+
+[324/383] Processing: Was-Jesus-in-the-Grave-3-Days-and-Nights-like-Jonah.docx
+  Title: Jesus Grave 3 Days Nights like Jonah
+  Category: Theology
+  Keywords: Jesus Grave 3 Days Nights like Jonah
+  ✓ Metadata added successfully
+
+[325/383] Processing: Preterism-the-Date-of-the-Book-of-Revelation.docx
+  Title: Preterism Date Book Revelation
+  Category: Eschatology
+  Keywords: Preterism Date Book Revelation
+  ✓ Metadata added successfully
+
+[326/383] Processing: Rest-from-Persecution-AFTER-the-Tribulation-2-Thessalonians.docx
+  Title: Rest Persecution Tribulation 2 Thessalonians
+  Category: Eschatology
+  Keywords: Rest Persecution Tribulation 2 Thessalonians
+  ✓ Metadata added successfully
+
+[327/383] Processing: The-Real-Meaning-of-Katabole-Translated-Foundation-in-1-Peter-120.docx
+  Title: Real Meaning Katabole Translated Foundation 1 Peter 120
+  Category: General Theology
+  Keywords: Real Meaning Katabole Translated Foundation 1 Peter 120
+  ✓ Metadata added successfully
+
+[328/383] Processing: The-Holy-Spirit-is-Missing-from-Pauls-Introductory-statement-in-his-Letters.docx
+  Title: Holy Spirit Missing Pauls Introductory statement Letters
+  Category: Theology
+  Keywords: Holy Spirit Missing Pauls Introductory statement Letters
+  ✓ Metadata added successfully
+
+[329/383] Processing: Which-part-of-the-Tribulation-are-the-1260-days-42-months-and-a-time-times-half-time.docx
+  Title: part Tribulation 1260 days 42 months time times half time
+  Category: Eschatology
+  Keywords: part Tribulation 1260 days 42 months time times half time
+  ✓ Metadata added successfully
+
+[330/383] Processing: Baptism-for-the-Remission-of-Sins-Acts-238.docx
+  Title: Baptism Remission Sins Acts 238
+  Category: Church Practices
+  Keywords: Baptism Remission Sins Acts 238
+  ✓ Metadata added successfully
+
+[331/383] Processing: What-makes-you-think-Christianity-is-the-only-way-to-God.docx
+  Title: makes think Christianity way God
+  Category: Theology
+  Keywords: makes think Christianity way God
+  ✓ Metadata added successfully
+
+[332/383] Processing: When-is-the-Rapture-is-really-a-Question-about-when-the-dead-are-Resurrected.docx
+  Title: Rapture Question dead Resurrected
+  Category: Eschatology
+  Keywords: Rapture Question dead Resurrected
+  ✓ Metadata added successfully
+
+[333/383] Processing: Key-Greek-Words-and-Terms-for-Eschatology.docx
+  Title: Key Greek Words Terms Eschatology
+  Category: Eschatology
+  Keywords: Key Greek Words Terms Eschatology
+  ✓ Metadata added successfully
+
+[334/383] Processing: The-Book-that-Tastes-like-Honey-but-becomes-Bitter.docx
+  Title: Book Tastes like Honey Bitter
+  Category: General Theology
+  Keywords: Book Tastes like Honey Bitter
+  ✓ Metadata added successfully
+
+[335/383] Processing: Gehenna-is-the-Name-of-Real-Place-and-not-Hell.docx
+  Title: Gehenna Name Real Place Hell
+  Category: General Theology
+  Keywords: Gehenna Name Real Place Hell
+  ✓ Metadata added successfully
+
+[336/383] Processing: Historical-20th-Century-medical-and-scientific-literature-attesting-to-the-efficacy-of-Vitamin-C.docx
+  Title: Historical 20th Century medical scientific literature attesting efficacy Vitamin C
+  Category: Health and Healing
+  Keywords: Historical 20th Century medical scientific literature attesting efficacy Vitamin C
+  ✓ Metadata added successfully
+
+[337/383] Processing: What-and-When-are-the-First-and-Second-resurrections-in-the-Bible.docx
+  Title: First Second resurrections Bible
+  Category: Biblical Studies
+  Keywords: First Second resurrections Bible
+  ✓ Metadata added successfully
+
+[338/383] Processing: Laying-the-Foundations-for-the-Covid-19-Story-of-Fear-and-Lies.docx
+  Title: Laying Foundations Covid 19 Story Fear Lies
+  Category: Health and Healing
+  Keywords: Laying Foundations Covid 19 Story Fear Lies
+  ✓ Metadata added successfully
+
+[339/383] Processing: Gods-Wrath-is-Proportional-to-Your-Sin-Romans-25.docx
+  Title: Gods Wrath Proportional Sin Romans 25
+  Category: Theology
+  Keywords: Gods Wrath Proportional Sin Romans 25
+  ✓ Metadata added successfully
+
+[340/383] Processing: What-Eternal-Life-Really-Means-Life-in-the-Age-to-Come-Our-Inheritance.docx
+  Title: Eternal Life Means Life Age Come Inheritance
+  Category: General Theology
+  Keywords: Eternal Life Means Life Age Come Inheritance
+  ✓ Metadata added successfully
+
+[341/383] Processing: 20-Benefits-of-Baptism-Which-Cant-Be-Symbolic.docx
+  Title: Benefits Baptism Symbolic
+  Category: Church Practices
+  Keywords: Benefits Baptism Symbolic
+  ✓ Metadata added successfully
+
+[342/383] Processing: The-Passover-Controversy-among-the-Early-Church-Assemblies.docx
+  Title: Passover Controversy Early Church Assemblies
+  Category: Church Practices
+  Keywords: Passover Controversy Early Church Assemblies
+  ✓ Metadata added successfully
+
+[343/383] Processing: The-Right-Balance-between-Paganism-Bondage-with-Respect-to-Biblical-Feasts.docx
+  Title: Right Balance Paganism Bondage Respect Biblical Feasts
+  Category: General Theology
+  Keywords: Right Balance Paganism Bondage Respect Biblical Feasts
+  ✓ Metadata added successfully
+
+[344/383] Processing: Hearing-the-Text-of-the-Bible-and-not-something-else.docx
+  Title: Hearing Text Bible
+  Category: Biblical Studies
+  Keywords: Hearing Text Bible
+  ✓ Metadata added successfully
+
+[345/383] Processing: Why-does-Matthew-use-the-Kingdom-of-Heaven-and-not-Kingdom-of-God.docx
+  Title: Matthew Kingdom Heaven Kingdom God
+  Category: Theology
+  Keywords: Matthew Kingdom Heaven Kingdom God
+  ✓ Metadata added successfully
+
+[346/383] Processing: The-Antichrist-Comes-First-Contrary-To-Pre-Tribulation-Theology.docx
+  Title: Antichrist Comes First Contrary Pre Tribulation Theology
+  Category: Eschatology
+  Keywords: Antichrist Comes First Contrary Pre Tribulation Theology
+  ✓ Metadata added successfully
+
+[347/383] Processing: The-Chapters-in-the-Book-of-Revelation-are-NOT-in-Sequence.docx
+  Title: Chapters Book Revelation Sequence
+  Category: Eschatology
+  Keywords: Chapters Book Revelation Sequence
+  ✓ Metadata added successfully
+
+[348/383] Processing: The-Holy-Spirit-and-Translation-Bias-A-Smoking-Gun-of-Trinity-Mischief.docx
+  Title: Holy Spirit Translation Bias Smoking Gun Trinity Mischief
+  Category: Theology
+  Keywords: Holy Spirit Translation Bias Smoking Gun Trinity Mischief
+  ✓ Metadata added successfully
+
+[349/383] Processing: 10-Free-Will-the-Early-Church-Calvinism.docx
+  Title: Free Early Church Calvinism
+  Category: Calvinism
+  Keywords: Free Early Church Calvinism
+  ✓ Metadata added successfully
+
+[350/383] Processing: 11-Things-Pro-Choicers-Do-Not-Get.docx
+  Title: Choicers
+  Category: General Theology
+  Keywords: Choicers
+  ✓ Metadata added successfully
+
+[351/383] Processing: 16-Pointers-on-How-to-Better-Understand-and-Study-the-Bible.docx
+  Title: Pointers Understand Study Bible
+  Category: Biblical Studies
+  Keywords: Pointers Understand Study Bible
+  ✓ Metadata added successfully
+
+[352/383] Processing: 2-Corruption-in-Apostolic-Times-Nicolaitans-and-Cerinthus.docx
+  Title: Corruption Apostolic Times Nicolaitans Cerinthus
+  Category: General Theology
+  Keywords: Corruption Apostolic Times Nicolaitans Cerinthus
+  ✓ Metadata added successfully
+
+[353/383] Processing: 4-The-Early-Christian-Apologists-Evolution-of-God.docx
+  Title: Early Christian Apologists Evolution God
+  Category: Theology
+  Keywords: Early Christian Apologists Evolution God
+  ✓ Metadata added successfully
+
+[354/383] Processing: 4-Winged-Creatures-Comparing-Revelation-46-8-with-Ezekiel-15-11.docx
+  Title: Winged Creatures Comparing Revelation 46 8 Ezekiel 15 11
+  Category: Eschatology
+  Keywords: Winged Creatures Comparing Revelation 46 8 Ezekiel 15 11
+  ✓ Metadata added successfully
+
+[355/383] Processing: 8-The-Christology-of-Sir-Isaac-Newton-The-Evolution-of-God.docx
+  Title: Christology Sir Isaac Newton Evolution God
+  Category: Theology
+  Keywords: Christology Sir Isaac Newton Evolution God
+  ✓ Metadata added successfully
+
+[356/383] Processing: Ancient-Evidence-for-Jesus-from-Non-Christian-Sources.docx
+  Title: Ancient Evidence Jesus Non Christian Sources
+  Category: Theology
+  Keywords: Ancient Evidence Jesus Non Christian Sources
+  ✓ Metadata added successfully
+
+[357/383] Processing: Another-Prophet-Like-Moses-Would-Come-Israels-Division.docx
+  Title: Prophet Like Moses Come Israels Division
+  Category: General Theology
+  Keywords: Prophet Like Moses Come Israels Division
+  ✓ Metadata added successfully
+
+[358/383] Processing: Are-The-144000-Jews-in-Revelation-73-Jewish-Evangelists.docx
+  Title: 144000 Jews Revelation 73 Jewish Evangelists
+  Category: Eschatology
+  Keywords: 144000 Jews Revelation 73 Jewish Evangelists
+  ✓ Metadata added successfully
+
+[359/383] Processing: Are-Women-Second-Class-Citizens-in-the-Bible-Using-Leviticus-12.docx
+  Title: Women Second Class Citizens Bible Using Leviticus 12
+  Category: Family and Relationships
+  Keywords: Women Second Class Citizens Bible Using Leviticus 12
+  ✓ Metadata added successfully
+
+[360/383] Processing: Biblical-Proof-for-a-pregnancy-being-a-Baby.docx
+  Title: Biblical Proof pregnancy being Baby
+  Category: General Theology
+  Keywords: Biblical Proof pregnancy being Baby
+  ✓ Metadata added successfully
+
+[361/383] Processing: Bythus-and-His-Family---Gnosticism-Part-2.docx
+  Title: Bythus Family Gnosticism Part 2
+  Category: Family and Relationships
+  Keywords: Bythus Family Gnosticism Part 2
+  ✓ Metadata added successfully
+
+[362/383] Processing: Calculation-of-the-size-of-the-area-with-blood-in-Revelation-1420.docx
+  Title: Calculation size area blood Revelation 1420
+  Category: Eschatology
+  Keywords: Calculation size area blood Revelation 1420
+  ✓ Metadata added successfully
+
+[363/383] Processing: Dates-Related-to-the-Book-of-Daniel-and-the-End-Times.docx
+  Title: Dates Book Daniel End Times
+  Category: Eschatology
+  Keywords: Dates Book Daniel End Times
+  ✓ Metadata added successfully
+
+[364/383] Processing: Deliverance-to-the-Captives-Ever-Increasing-Faith.docx
+  Title: Deliverance Captives Increasing Faith
+  Category: Salvation
+  Keywords: Deliverance Captives Increasing Faith
+  ✓ Metadata added successfully
+
+[365/383] Processing: Detailed-Exegesis-of-Colossians-115-20-Image-of-the-Invisible-God.docx
+  Title: Detailed Exegesis Colossians 115 20 Image Invisible God
+  Category: Theology
+  Keywords: Detailed Exegesis Colossians 115 20 Image Invisible God
+  ✓ Metadata added successfully
+
+[366/383] Processing: Did-Angels-Have-Sex-with-Women-based-on-Genesis-6-Part-1-Introduction.docx
+  Title: Angels Sex Women based Genesis 6 Part 1 Introduction
+  Category: Family and Relationships
+  Keywords: Angels Sex Women based Genesis 6 Part 1 Introduction
+  ✓ Metadata added successfully
+
+[367/383] Processing: Does-Apostasia-in-2-Thessalonians-23-Refer-to-a-Physical-Departure-ie-the-Rapture.docx
+  Title: Apostasia 2 Thessalonians 23 Refer Physical Departure Rapture
+  Category: Eschatology
+  Keywords: Apostasia 2 Thessalonians 23 Refer Physical Departure Rapture
+  ✓ Metadata added successfully
+
+[368/383] Processing: Faith-Works-The-Misconceptions-Regarding-Baptism.docx
+  Title: Faith Works Misconceptions Baptism
+  Category: Church Practices
+  Keywords: Faith Works Misconceptions Baptism
+  ✓ Metadata added successfully
+
+[369/383] Processing: General-Measures-For-Managing-Acute-Childhood-Illness-Or-Infection.docx
+  Title: General Measures Managing Acute Childhood Illness Infection
+  Category: General Theology
+  Keywords: General Measures Managing Acute Childhood Illness Infection
+  ✓ Metadata added successfully
+
+[370/383] Processing: Hacking-Extortion-Election-Interference-These-Are-the-Tools-Used-by-Israels-Agents-of-Chaos-and-Mani.docx
+  Title: Hacking Extortion Election Interference Tools Israels Agents Chaos Mani
+  Category: Calvinism
+  Keywords: Hacking Extortion Election Interference Tools Israels Agents Chaos Mani
+  ✓ Metadata added successfully
+
+[371/383] Processing: How-The-Greek-word-Hades-Changed-Our-Understanding-of-What-happens-when-we-Die.docx
+  Title: Greek word Hades Changed Understanding happens Die
+  Category: Biblical Languages
+  Keywords: Greek word Hades Changed Understanding happens Die
+  ✓ Metadata added successfully
+
+[372/383] Processing: How-the-Israelites-saw-Earth-as-Land-Sea-and-Sky.docx
+  Title: Israelites saw Earth Land Sea Sky
+  Category: General Theology
+  Keywords: Israelites saw Earth Land Sea Sky
+  ✓ Metadata added successfully
+
+[373/383] Processing: How-was-the-Son-Foreknown-before-the-Foundation-of-the-World-1-Peter-120.docx
+  Title: Son Foreknown Foundation World 1 Peter 120
+  Category: Theology
+  Keywords: Son Foreknown Foundation World 1 Peter 120
+  ✓ Metadata added successfully
+
+[374/383] Processing: Is-a-Pre-Tribulation-Rapture-Needed-for-the-Wedding-of-the-Church-to-Jesus.docx
+  Title: Pre Tribulation Rapture Needed Wedding Church Jesus
+  Category: Eschatology
+  Keywords: Pre Tribulation Rapture Needed Wedding Church Jesus
+  ✓ Metadata added successfully
+
+[375/383] Processing: Is-Islam-being-used-by-our-Enemy-to-Perform-a-Possible-Role-Reversal-during-Daniels-70th-Week.docx
+  Title: Islam being Enemy Perform Possible Role Reversal Daniels 70th Week
+  Category: Prophecy
+  Keywords: Islam being Enemy Perform Possible Role Reversal Daniels 70th Week
+  ✓ Metadata added successfully
+
+[376/383] Processing: Lesson-2-Revelation-1-1-3-Jesus-Christ-Revealed-as-the-Messenger-of-YHVH.docx
+  Title: Lesson 2 Revelation 1 1 3 Jesus Christ Revealed Messenger YHVH
+  Category: Eschatology
+  Keywords: Lesson 2 Revelation 1 1 3 Jesus Christ Revealed Messenger YHVH
+  ✓ Metadata added successfully
+
+[377/383] Processing: Lesson-4-Revelation-16-8-Kingdom-Priests-Coming-in-the-Clouds-Alpha-and-Omega.docx
+  Title: Lesson 4 Revelation 16 8 Kingdom Priests Coming Clouds Alpha Omega
+  Category: Eschatology
+  Keywords: Lesson 4 Revelation 16 8 Kingdom Priests Coming Clouds Alpha Omega
+  ✓ Metadata added successfully
+
+[378/383] Processing: Martin-Luther-William-Tyndale-versus-the-Pope-On-the-State-of-the-Dead.docx
+  Title: Martin Luther William Tyndale Pope State Dead
+  Category: General Theology
+  Keywords: Martin Luther William Tyndale Pope State Dead
+  ✓ Metadata added successfully
+
+[379/383] Processing: Menstrual-Cups-An-ecological-Way-to-Deal-with-Menstruation.docx
+  Title: Menstrual Cups ecological Way Deal Menstruation
+  Category: General Theology
+  Keywords: Menstrual Cups ecological Way Deal Menstruation
+  ✓ Metadata added successfully
+
+[380/383] Processing: Objection-4-Only-the-apostles-could-pray-for-people-to-receive-the-baptism-in-the-Holy-Spirit.docx
+  Title: Objection 4 apostles pray people receive baptism Holy Spirit
+  Category: Church Practices
+  Keywords: Objection 4 apostles pray people receive baptism Holy Spirit
+  ✓ Metadata added successfully
+
+[381/383] Processing: Rapture-Terminology-TheSkeleton-in-the-Closetof-Pretribulationism.docx
+  Title: Rapture Terminology TheSkeleton Closetof Pretribulationism
+  Category: Eschatology
+  Keywords: Rapture Terminology TheSkeleton Closetof Pretribulationism
+  ✓ Metadata added successfully
+
+[382/383] Processing: Short-Summary-of-Did-Fallen-Angels-Have-Sex-with-Daughters-Of-Men-and-produce-Hybrid-Nephilim-Giants.docx
+  Title: Short Summary Fallen Angels Sex Daughters Men produce Hybrid Nephilim Giants
+  Category: General Theology
+  Keywords: Short Summary Fallen Angels Sex Daughters Men produce Hybrid Nephilim Giants
+  ✓ Metadata added successfully
+
+[383/383] Processing: The-FOUR-PRINCIPLES-of-DIVINE-PROCREATION-the-IMPACT-on-CHRISTIAN-MONOTHEISM.docx
+  Title: PRINCIPLES DIVINE PROCREATION IMPACT CHRISTIAN MONOTHEISM
+  Category: Theology
+  Keywords: PRINCIPLES DIVINE PROCREATION IMPACT CHRISTIAN MONOTHEISM
+  ✓ Metadata added successfully
+
+
+==================================================
+Processing complete!
+Total files: 383
+Successful: 383
+Failed: 0

@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  nextcloud:
+    image: nextcloud:latest
+    container_name: nextcloud
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    environment:
+      # Critical: Set the correct domain from the start
+      - NEXTCLOUD_TRUSTED_DOMAINS=nextcloud.rtbsoftware.duckdns.org 192.168.1.50 localhost
+      - TRUSTED_PROXIES=192.168.1.49
+      - OVERWRITEPROTOCOL=https
+      - OVERWRITEHOST=nextcloud.rtbsoftware.duckdns.org
+      - OVERWRITECLIURL=https://nextcloud.rtbsoftware.duckdns.org
+      - OVERWRITEWEBROOT=/
+      # Database settings
+      - MYSQL_HOST=nextcloud-db
+      - MYSQL_DATABASE=nextcloud
+      - MYSQL_USER=nextcloud
+      - MYSQL_PASSWORD=nextcloud_secure_password
+      # Admin account
+      - NEXTCLOUD_ADMIN_USER=raymond
+      - NEXTCLOUD_ADMIN_PASSWORD=YOUR_SECURE_PASSWORD  # CHANGE THIS!
+    volumes:
+      - nextcloud_data:/var/www/html
+      - nextcloud_config:/var/www/html/config
+      - nextcloud_custom_apps:/var/www/html/custom_apps
+      - nextcloud_themes:/var/www/html/themes
+    depends_on:
+      - db
+    networks:
+      - nextcloud-net
+
+  db:
+    image: mariadb:10
+    container_name: nextcloud-db
+    restart: unless-stopped
+    environment:
+      - MYSQL_ROOT_PASSWORD=root_secure_password
+      - MYSQL_DATABASE=nextcloud
+      - MYSQL_USER=nextcloud
+      - MYSQL_PASSWORD=nextcloud_secure_password
+    volumes:
+      - nextcloud_db:/var/lib/mysql
+    networks:
+      - nextcloud-net
+
+volumes:
+  nextcloud_data:
+  nextcloud_config:
+  nextcloud_custom_apps:
+  nextcloud_themes:
+  nextcloud_db:
+
+networks:
+  nextcloud-net:
+    driver: bridge

@@ -1,0 +1,163 @@
+﻿Thanks for clarifying that you're not using Nextcloud All-in-One (AIO). Since you're running a standard Nextcloud installation in a container on a Proxmox server and encountering the `http://nextcloud.local/login` issue despite configuring Nginx, the problem likely stems from Nextcloud’s configuration, Nginx proxy settings, or DNS resolution. Below, I’ll provide a concise, targeted approach to fix the issue, focusing on a standard Nextcloud setup.
+
+### Steps to Resolve
+
+#### 1. Update Nextcloud’s `config.php`
+The `http://nextcloud.local/login` redirect suggests Nextcloud is defaulting to an incorrect domain. You need to explicitly set the correct domain in Nextcloud’s configuration file.
+
+- **Locate `config.php`**:
+  Access the Nextcloud container:
+  ```bash
+  sudo docker exec -it <nextcloud-container-name> bash
+  ```
+  The file is typically at `/var/www/html/config/config.php`.
+
+- **Edit `config.php`**:
+  Open the file:
+  ```bash
+  nano /var/www/html/config/config.php
+  ```
+  Ensure the following settings are configured (replace `cloud.yourdomain.com` with your actual domain):
+  ```php
+  <?php
+  $CONFIG = array (
+    'trusted_domains' => 
+    array (
+      0 => 'localhost',
+      1 => 'cloud.yourdomain.com',
+      2 => '192.168.1.50', // Internal IP of Nextcloud container
+    ),
+    'overwrite.cli.url' => 'https://cloud.yourdomain.com',
+    'overwritehost' => 'cloud.yourdomain.com',
+    'overwriteprotocol' => 'https',
+    'trusted_proxies' => 
+    array (
+      0 => '192.168.1.49', // IP of Nginx reverse proxy
+    ),
+  );
+  ```
+  - `trusted_domains`: Add your domain and the container’s internal IP.
+  - `overwrite.cli.url`: Forces Nextcloud to use the specified URL.
+  - `overwritehost` and `overwriteprotocol`: Ensure the correct domain and HTTPS are used.
+  - `trusted_proxies`: Include the Nginx reverse proxy’s IP to handle forwarded requests correctly.
+
+- **Save and Restart**:
+  Save the file and restart the container:
+  ```bash
+  sudo docker restart <nextcloud-container-name>
+  ```
+
+#### 2. Verify Nginx Configuration
+Your Nginx reverse proxy must pass the correct headers to Nextcloud to avoid the `nextcloud.local` redirect. Below is a streamlined Nginx config:
+
+```nginx
+server {
+    listen 443 ssl;
+    server_name cloud.yourdomain.com;
+
+    ssl_certificate /path/to/fullchain.pem; # e.g., Let's Encrypt
+    ssl_certificate_key /path/to/privkey.pem;
+
+    # Security headers
+    add_header Strict-Transport-Security "max-age=31536000" always;
+    add_header X-Content-Type-Options nosniff;
+
+    location / {
+        proxy_pass http://<nextcloud-container-ip>:<port>; # e.g., http://192.168.x.x:80
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+    # Redirect CalDAV/CardDAV
+    location /.well-known/carddav {
+        return 301 $scheme://$host/remote.php/dav;
+    }
+    location /.well-known/caldav {
+        return 301 $scheme://$host/remote.php/dav;
+    }
+}
+```
+
+- **Key Checks**:
+  - Replace `<nextcloud-container-ip>:<port>` with the Nextcloud container’s internal IP and port (e.g., `192.168.1.50:80` for standard Nextcloud Apache/PHP).
+  - Ensure `proxy_set_header` directives include `Host`, `X-Forwarded-Proto`, and others to pass the correct domain and protocol.
+  - Verify SSL certificates are correctly configured (e.g., via Let’s Encrypt).
+
+- **Test and Reload Nginx**:
+  ```bash
+  nginx -t
+  systemctl reload nginx
+  ```
+
+#### 3. Check DNS Resolution
+The `nextcloud.local` redirect might indicate a DNS issue within the container or Proxmox host.
+
+- **Proxmox Host DNS**:
+  Ensure the Proxmox host has valid DNS servers:
+  ```bash
+  cat /etc/resolv.conf
+  ```
+  If empty or incorrect, add public DNS servers (e.g., `nameserver 8.8.8.8`) or configure your router’s DNS.
+
+- **Local DNS for Testing**:
+  If `cloud.yourdomain.com` isn’t publicly resolvable yet, add it to the Proxmox host’s `/etc/hosts`:
+  ```bash
+  192.168.1.49 cloud.yourdomain.com
+  ```
+  Replace `192.168.1.49` with the Nginx reverse proxy’s IP.
+
+- **Container DNS**:
+  Ensure the Nextcloud container uses the host’s DNS settings. If using Docker, add DNS settings to the container:
+  ```bash
+  sudo docker run -d --dns 8.8.8.8 --dns 8.8.4.4 ... <other-options> <nextcloud-image>
+  ```
+
+#### 4. Inspect Proxmox Networking
+- **Bridge Network**: Confirm the Nextcloud and Nginx containers are on a bridge network (e.g., `vmbr0`) with external access.
+- **Firewall**: Temporarily disable the Proxmox firewall to rule out issues:
+  ```bash
+  pve-firewall stop
+  ```
+- **Port Forwarding**: Ensure your router forwards ports 80 and 443 to the Nginx container’s IP.
+
+#### 5. Check Logs for Errors
+- **Nextcloud Logs**:
+  ```bash
+  sudo docker logs <nextcloud-container-name>
+  ```
+  Look for errors related to `nextcloud.local` or invalid domain redirects.
+- **Nginx Logs**:
+  ```bash
+  cat /var/log/nginx/error.log
+  cat /var/log/nginx/access.log
+  ```
+  Check for `502 Bad Gateway` or `Connection refused`, indicating proxy issues.
+
+#### 6. Test and Troubleshoot
+- **Access Test**: Try accessing `https://cloud.yourdomain.com` from a browser. If it still redirects to `http://nextcloud.local/login`, double-check `config.php` settings and Nginx headers.
+- **Clear Cache**: Clear your browser cache or test in incognito mode to rule out cached redirects.
+- **Container Port**: Verify the Nextcloud container’s port (default 80 for Apache). Use `docker ps` to confirm the port mapping.
+- **Conflicting Services**: Check for other services using ports 80/443:
+  ```bash
+  sudo netstat -tulnp | grep ':80\|:443'
+  ```
+
+### Additional Notes
+- **HTTPS Enforcement**: If Nextcloud redirects to HTTP, ensure `.htaccess` or Nginx enforces HTTPS. In `.htaccess` (inside the container at `/var/www/html/.htaccess`), add:
+  ```apache
+  RewriteEngine On
+  RewriteCond %{HTTPS} off
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+  ```
+- **Docker Compose**: If using Docker Compose, share your `docker-compose.yml` for precise networking advice.
+- **Nextcloud Version**: Run `sudo docker exec <container> php /var/www/html/occ config:system:get version` to check the version, as some older versions have quirks with domain overrides.
+
+If the issue persists, please share:
+- Your Nginx config file.
+- The `trusted_domains` and `overwrite*` settings from `config.php`.
+- Any specific error messages from logs.
+- The internal IP/port of the Nextcloud container and Nginx setup.
+
+This will help me provide a more precise fix. Let me know how I can assist further!
